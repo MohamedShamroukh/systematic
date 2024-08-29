@@ -1,0 +1,660 @@
+Title,Authors,Year,Venue,Citations
+Agent-based modeling for predicting pedestrian trajectories around an autonomous vehicle,"M Prédhumeau, L Mancheva, J Dugdale",2022,Journal of Artificial …,36
+Experimental investigation on the alleged gender-differences in pedestrian dynamics: A study reveals no gender differences in pedestrian movement behavior,"R Subaih, M Maree, M Chraibi, S Awad",2020,IEEE access,23
+A data-driven model for pedestrian behavior classification and trajectory prediction,"V Papathanasopoulou, I Spyropoulou",2022,IEEE Open Journal …,19
+Pedestrian trajectory prediction in pedestrian-vehicle mixed environments: A systematic review,"M Golchoubian, M Ghafurian",2023,IEEE Transactions …,20
+Modelling of driver and pedestrian behaviour–a historical review,"K Babojelić, L Novacko",2020,Promet-Traffic&Transportation,14
+Pedestrian Simulation Challenges: Modeling Techniques and Emerging Positioning Technologies for ITS Applications,"V Papathanasopoulou, H Perakis",2024,IEEE Transactions …,0
+Vehicle-pedestrian interaction: A distributed simulation study,"E Sadraei, R Romano, N Merat",2020,Proceedings of the …,15
+Pedestrian models for autonomous driving part ii: high-level models of human behavior,"F Camara, N Bellotto, S Cosar, F Weber",2020,IEEE Transactions …,126
+Multi-modal pedestrian trajectory prediction for edge agents based on spatial-temporal graph,"X Zou, B Sun, D Zhao, Z Zhu, J Zhao, Y He",2020,IEEE Access,21
+Pedestrian trajectory prediction in heterogeneous traffic using pose keypoints-based convolutional encoder-decoder network,"K Chen, X Song, X Ren",2020,… on Circuits and Systems for Video …,23
+Spatio-semantic road space modeling for vehicle–pedestrian simulation to test automated driving systems,"B Schwab, C Beil, TH Kolbe",2020,Sustainability,23
+Multi-Pedestrian Tracking and Map-Based Intention Estimation for Autonomous Driving Scenario.,"A Dehghani, L Patino-Studencki",2024,VEHITS,0
+Spatiotemporal attention-based pedestrian trajectory prediction considering traffic-actor interaction,"X Zhou, W Zhao, A Wang, C Wang",2022,IEEE Transactions on …,7
+A survey on motion prediction of pedestrians and vehicles for autonomous driving,"M Gulzar, Y Muhammad, N Muhammad",2021,IEEE Access,56
+Psi: A pedestrian behavior dataset for socially intelligent autonomous car,"T Chen, T Jing, R Tian, Y Chen, J Domeyer",2021,arXiv preprint arXiv …,16
+Review of pedestrian trajectory prediction methods: Comparing deep learning and knowledge-based approaches,"R Korbmacher, A Tordeux",2022,IEEE Transactions on Intelligent …,71
+Pedestrian behavior in shared spaces with autonomous vehicles: An integrated framework and review,"M Prédhumeau, A Spalanzani",2021,IEEE Transactions on …,31
+A protocol for pedestrian crossing and increased vehicular flow in smart cities,"S El Hamdani, N Benamar, M Younis",2020,Journal of Intelligent …,28
+Multimodal multi-pedestrian path prediction for autonomous cars,"A Poibrenski, M Klusch, I Vozniak",2021,ACM SIGAPP Applied …,14
+Modeling the interaction between vehicle yielding and pedestrian crossing behavior at unsignalized midblock crosswalks,"J Zhao, JO Malenje, J Wu, R Ma",2020,… research part F: traffic psychology and …,58
+Neural differential constraint-based pedestrian trajectory prediction model in ego-centric perspective,"J Wang, H Sang, Q Liu, W Chen, Z Zhao",2024,Engineering Applications of …,0
+"Behavioral-based pedestrian modeling approach: formulation, sensitivity analysis, and calibration","S Hani Hamdar, A Talebpour, K D'sa",2022,Transportation …,3
+Non-probability sampling network based on anomaly pedestrian trajectory discrimination for pedestrian trajectory prediction,"Q Liu, H Sang, J Wang, W Chen, Y Liu",2024,Image and Vision Computing,1
+M2p3: multimodal multi-pedestrian path prediction by self-driving cars with egocentric vision,"A Poibrenski, M Klusch, I Vozniak",2020,Proceedings of the 35th …,32
+Revealing pedestrian behaviors to support the decision-making of autonomous vehicles,"I Fejes, D Földes",2020,2020 Smart City Symposium Prague (SCSP),6
+Pedestrian crossing intention forecasting at unsignalized intersections using naturalistic trajectories,"E Moreno, P Denny, E Ward, J Horgan, C Eising",2023,Sensors,3
+A Hierarchical Forecasting Model of Pedestrian Crossing Behaviour for Autonomous Vehicle,"G Yang, EJL Pulgarin, G Herrmann",2024,IEEE Access,0
+Child-pedestrian traffic safety at crosswalks—literature review,"A Deluka-Tibljaš, S Šurdonja, I Ištoka Otković",2022,Sustainability,16
+Generating scenarios with diverse pedestrian behaviors for autonomous vehicle testing,"M Priisalu, A Pirinen, C Paduraru",2022,… on Robot Learning,12
+Tracking Pedestrians Under Occlusion in Parking Space.,"Z Zhou, S Yamada, Y Watanabe",2023,… Systems Science & …,1
+A review of deep learning-based methods for pedestrian trajectory prediction,"BI Sighencea, RI Stanciu, CD Căleanu",2021,Sensors,57
+How can i see my future? fvtraj: Using first-person view for pedestrian trajectory prediction,"H Bi, R Zhang, T Mao, Z Deng, Z Wang",2020,"… 28, 2020, Proceedings, Part VII 16",23
+A Multi-Agent Model to calculate Risk on Vehicle-Pedestrian Interaction,"M Razzouqi, A Boulmakoul",2021,2021 International Conference on …,0
+Coupling intention and actions of vehicle–pedestrian interaction: A virtual reality experiment study,"M Dang, Y Jin, P Hang, L Crosato, Y Sun",2024,Accident Analysis & …,0
+Pedestrians' road crossing behaviour in front of automated vehicles: Results from a pedestrian simulation experiment using agent-based modelling,"SR Rad, GH de Almeida Correia",2020,… research part F: traffic …,72
+BR-GAN: A pedestrian trajectory prediction model combined with behavior recognition,"SM Pang, JX Cao, MY Jian, J Lai",2022,IEEE Transactions on …,11
+Airport Landside Vehicle Modelling and Pedestrian Behaviour Modelling for the Connected and Automated Era,S Gatien,2022,NA,0
+Knowledge Acquisition from Pedestrian Flow Analysis using Sparse Mobile Probe Data,"RPB Neto, K Ohno, T Westfechtel, S Kojima",2021,Journal of Intelligent & …,1
+Edge-Empowered Communication based Vehicle and Pedestrian Trajectory Perception System for Smart Cities,"S Chavhan, S Kumar, D Gupta",2023,IEEE Internet of …,1
+Improved Gaussian Mixture Probabilistic Model for Pedestrian Trajectory Prediction of Autonomous Vehicle,"H Li, X Wang, X Su, Y Wang",2024,Recent Patents on Mechanical …,1
+Simulation of pedestrian interaction with autonomous vehicles via social force model,"MM Rashid, MR Seyedi, S Jung",2024,Simulation Modelling Practice and …,4
+Characterizing Structured Versus Unstructured Environments Based on Pedestrians' and Vehicles' Motion Trajectories,"M Golchoubian, M Ghafurian, NL Azad",2022,2022 IEEE 25th …,3
+Pedestrian interaction with automated vehicles at uncontrolled intersections,"P Wang, S Motamedi, S Qi, X Zhou, T Zhang",2021,… research part F: traffic …,26
+Pedestrian-vehicle interaction in shared space: Insights for autonomous vehicles,"Y Wang, L Hespanhol, S Worrall",2022,Proceedings of the 14th …,10
+Enhancing Sustainable Mobility: Evaluating New Bicycle and Pedestrian Links to Car-Oriented Industrial Parks with ARAS-G MCDM Approach,"J Zagorskas, Z Turskis",2024,Sustainability,0
+LiDAR-Based Vehicle–Pedestrian Interaction Study on Midblock Crossing Using Trajectory-Based Modified Post-Encroachment Time,"V Vasudevan, R Agarwala",2022,Transportation research …,8
+Research on Intelligent Vehicle Motion Planning Based on Pedestrian Future Trajectories,"P Liu, G Du, Y Chang, M Liu",2023,World Electric Vehicle Journal,0
+US walking distances and pedestrian safety outcomes+ integrating autonomous vehicles into Texas' Statewide Analysis Model,M Vellimana,2023,NA,0
+Online monitoring for safe pedestrian-vehicle interactions,"P Du, Z Huang, T Liu, T Ji, K Xu, Q Gao",2020,2020 IEEE 23rd …,26
+A survey on deep-learning methods for pedestrian behavior prediction from the egocentric view,"T Chen, R Tian",2021,2021 IEEE International Intelligent …,7
+Application of optimized BPR function in pedestrian evacuation,"X Gong, X Zhang, W Qi, X Li",2024,… Conference on Traffic …,0
+ADOPT: A system for Alerting Drivers to Occluded Pedestrian Traffic,"A Alali, S Olariu, S Jain",2023,Vehicular Communications,2
+A context-aware pedestrian trajectory prediction framework for automated vehicles,"A Kalatian, B Farooq",2022,Transportation research part C: emerging …,44
+Prediction of pedestrians' wait-or-go decision using trajectory data based on gradient boosting decision tree,"X Xin, N Jia, S Ling, Z He",2022,Transportmetrica B: transport dynamics,8
+Simulation-based model for surrogate safety measures analysis in automated vehicle-pedestrian conflict on an urban environment,"H Alghodhaifi, S Lakshmanan",2020,Autonomous Systems …,17
+Action-aware encoder-decoder network for pedestrian trajectory prediction,"J Fu, X Zhao",2023,Journal of Shanghai Jiaotong University (Science),5
+How To Evaluate the Navigation of Autonomous Vehicles Around Pedestrians?,"M Kabtoul, M Prédhumeau",2023,IEEE Transactions …,2
+Pedestrian intention prediction for autonomous driving using a multiple stakeholder perspective model,"K Kim, YK Lee, H Ahn, S Hahn",2020,2020 IEEE/RSJ …,13
+Multi-PPTP: Multiple probabilistic pedestrian trajectory prediction in the complex junction scene,"L Li, B Zhou, J Lian, X Wang",2021,IEEE Transactions on …,2
+Car First or Pedestrian First? Motion Prediction and Planning in Human-Robot Interactions,X Lian,2021,International Conference on Computing and Data …,0
+Development of Vehicular-Pedestrian Traffic Counting and Forecasting Framework,CH NG,2022,NA,0
+Human motion trajectory prediction: A survey,"A Rudenko, L Palmieri, M Herman",2020,… Journal of Robotics …,803
+IA-LSTM: interaction-aware LSTM for pedestrian trajectory prediction,"J Yang, Y Chen, S Du, B Chen",2024,IEEE transactions on …,1
+Predicting pedestrian tracks around moving vehicles based on conditional variational transformer,"Y He, Y Yang, Y Cai, C Yuan",2023,Proceedings of the …,3
+Pedestrian intention prediction for autonomous vehicles: A comprehensive survey,"N Sharma, C Dhiman, S Indu",2022,Neurocomputing,32
+Analysis of Vehicle‐Pedestrian Accident Risk Based on Simulation Experiments,"R Cheng, Y Pan, L Xie",2022,Mathematical Problems in …,4
+Multi-scale pedestrian intent prediction using 3D joint information as spatio-temporal representation,"S Ahmed, A Al Bazi, C Saha, S Rajbhandari",2023,Expert Systems With …,7
+Predicting Pedestrian Movement in Unsignalized Crossings: A Contextual Cue-Based Approach,"K Muduli, V Sahu, I Ghosh",2024,2024 16th International …,0
+Summary and Reflections on Pedestrian Trajectory Prediction in the Field of Autonomous Driving,"Z Fu, K Jiang, C Xie, Y Xu, J Huang",2024,IEEE Transactions on …,0
+Analysis of Pedestrian Behavior during Interaction with Autonomous Vehicles,MM Rashid,2022,NA,1
+Autonomous Vehicle–Pedestrian Interaction Modeling Platform: A Case Study in Four Major Cities,"M Shoman, G Lanzaro, T Sayed",2024,Journal of Transportation …,0
+Identification of pedestrian motion feature in mixed traffic conditions and anti-collision algorithm of autonomous vehicle,"C Yuan, X Wu, J Shen, L Chen, Y Cai",2023,Proceedings of the …,0
+A comparison of pedestrian behavior in interactions with autonomous and human-driven vehicles: an extreme value theory approach,"G Lanzaro, T Sayed, C Fu",2023,… research part F: traffic psychology and …,7
+Human trajectory prediction using similarity-based multi-model fusion,"G Habibi, JP How",2021,IEEE Robotics and Automation Letters,17
+Multiagent Modeling for Pedestrian Risk Assessment,"M Razzouqi, A Boulmakoul",2022,Smart Trajectories,0
+Simulation-based evaluation of a new integrated intersection control scheme for connected automated vehicles and pedestrians,"T Niels, N Mitrovic, N Dobrota",2020,Transportation …,28
+Pedestrian–autonomous vehicles interaction challenges: a survey and a solution to pedestrian intent identification,"P Pandey, JV Aghav",2020,Advances in Data and Information Sciences …,9
+Modeling trajectories and trajectory variation of turning vehicles at signalized intersections,"C Dias, M Iryo-Asano, M Abdullah, T Oguchi",2020,IEEE …,21
+Pedestrian Intention Prediction for Autonomous Driving and Mobile Robots Using a Multiple Stakeholder Perspective Model,김경도,2021,NA,0
+Interactions between autonomous vehicles and pedestrians at unsignalized mid-block crosswalks considering occlusions by opposing vehicles,"H Zhu, M Iryo-Asano, WKM Alhajyaseen",2021,Accident Analysis & …,10
+Mobility trajectory generation: a survey,"X Kong, Q Chen, M Hou, H Wang, F Xia",2023,Artificial Intelligence Review,9
+Teletraffic analysis of a mobile crowdsensing system: The pedestrian-to-vehicle scenario,D Miguel-Santiago,2022,International …,0
+"Vehicle to pedestrian systems: Survey, challenges and recent trends","A Kabil, K Rabieh, F Kaleem, MA Azer",2022,IEEE Access,14
+Enhancing Pedestrian Group Detection and Tracking Through Zone-Based Clustering,"M Chen, S Banitaan, M Maleki",2023,IEEE Access,0
+trajdata: A unified interface to multiple human trajectory datasets,"B Ivanovic, G Song, I Gilitschenski",2024,Advances in Neural …,9
+Collision avoidance of low speed autonomous shuttles with pedestrians,"SY Gelbal, B Aksun-Guvenc, L Guvenc",2020,International journal of automotive …,60
+Implications of Connected and Autonomous Applications on Pedestrian Safety in Urban Environments,KS Brown,2022,NA,0
+Modeling car-following behavior in downtown area based on unsupervised clustering and variable selection method,"DA Nguyen, J Nwadiuto, H Okuda",2020,2020 IEEE International …,2
+“if you could see me through my eyes”: Predicting pedestrian perception,"J Petzold, M Wahby, F Stark, U Behrje",2022,2022 8th International …,5
+Differences in pedestrian behavior at crosswalk between communicating with conventional vehicle and automated vehicle in real traffic environment,"M Taima, T Daimon",2023,Safety,4
+Traffic and granular flow: the role of data and technology in the understanding of particle dynamics,"S Hamdar, A Talebpour, R Bertini",2020,Journal of Intelligent …,2
+"Pedestrian support in intelligent transportation systems: challenges, solutions and open issues","S El Hamdani, N Benamar, M Younis",2020,Transportation research part C …,64
+Pedestrian and vehicle behaviour prediction in autonomous vehicle system—A review,"LG Galvão, MN Huda",2023,Expert Systems with Applications,5
+"On-road and online studies to investigate beliefs and behaviors of Netherlands, US and Mexico pedestrians encountering hidden-driver vehicles","J Li, R Currano, D Sirkin, D Goedicke",2020,Proceedings of the …,20
+Non-Autoregressive Transformer based Ego-Motion Independent Pedestrian Trajectory Prediction on Egocentric View,"Y Kim, E Seo, C Noh, K Yi",2023,IEEE Access,0
+Using deep neural networks in predicting the movement of road users,EBI SIGHENCEA,2023,NA,0
+Citywide reconstruction of cross-sectional traffic flow from moving camera videos,"A Kumar, T Kashiyama, H Maeda",2021,2021 IEEE International …,16
+Implicit interaction with an autonomous personal mobility vehicle: Relations of pedestrians' gaze behavior with situation awareness and perceived risks,"H Liu, T Hirayama, LY Morales Saiki",2023,International Journal of …,12
+Gentlemen on the Road: Understanding How Pedestrians Interpret Yielding Behavior of Autonomous Vehicles using Machine Learning,"YK Lee, YE Rhee, JK Ryu, S Hahn",2020,arXiv preprint arXiv:2005.07872,4
+Trajectron++: Dynamically-feasible trajectory forecasting with heterogeneous data,"T Salzmann, B Ivanovic, P Chakravarty",2020,Computer Vision–ECCV …,796
+Review of pedestrian trajectory prediction methods,"X Tan, R Liu, S Zhang, J Li, P Ma",2022,Frontiers in Computing and …,1
+Cooperative Probabilistic Trajectory Prediction under Occlusion,"A Nayak, A Eskandarian",2024,IEEE Transactions on Intelligent …,1
+PV-TSC: Learning to control traffic signals for pedestrian and vehicle traffic in 6G era,"K Xu, J Huang, L Kong, J Yu",2022,IEEE Transactions on …,6
+Can automated driving prevent crashes with distracted Pedestrians? An exploration of motion planning at unsignalized Mid-block crosswalks,"H Zhu, T Han, WKM Alhajyaseen, M Iryo-Asano",2022,Accident Analysis & …,13
+Using context-cues and interaction for traffic-agent trajectory prediction,VP Thazha,2022,NA,0
+Scoping out the scalability issues of autonomous vehicle-pedestrian interaction,"TTM Tran, C Parker, M Tomitsch",2023,Proceedings of the 15th International …,4
+Survey of pedestrian action recognition techniques for autonomous driving,"L Chen, N Ma, P Wang, J Li, P Wang",2020,Tsinghua Science …,64
+Game and Simulation Design for Studying Pedestrian-Automated Vehicle Interactions,"G Pappas, JE Siegel, J Rutkowski, A Schaaf",2021,arXiv preprint arXiv …,5
+Communication of automated vehicles and pedestrian groups: An intercultural study on pedestrians' street crossing decisions,"P Joisten, Z Liu, N Theobald, A Webler",2021,Proceedings of Mensch …,21
+Design of Real-time Pedestrian Trajectory Prediction System based on Jetson Xavier,"Q Liu, H Sang",2023,Frontiers in Computing and Intelligent Systems,0
+Pedestrians' perceived vulnerability and observed behaviours relating to crossing and passing interactions with autonomous vehicles,LM Hulse,2023,Transportation research part F: traffic psychology and …,13
+Autonomous vehicle evaluation: A comprehensive survey on modeling and simulation approaches,"H Alghodhaifi, S Lakshmanan",2021,IEEE Access,41
+Trajectory prediction for heterogeneous traffic-agents using knowledge correction data-driven model,"X Xu, W Liu, L Yu",2022,Information Sciences,53
+"Connected vehicle technologies, autonomous driving perception algorithms, and smart sustainable urban mobility behaviors in networked transport systems","E Johnson, E Nica",2021,Contemporary Readings in Law and Social Justice,48
+A comprehensive survey on autonomous driving cars: A perspective view,"S Devi, P Malarvezhi, R Dayana",2020,Wireless Personal …,47
+A comprehensive survey on the application of deep and reinforcement learning approaches in autonomous driving,"BB Elallid, N Benamar, AS Hafid, T Rachidi",2022,Journal of King Saud …,75
+Early Detection of Occluded or Hidden Pedestrian by Using Mobile Base Station,RYT Hou,2021,… Conference on Connected and Autonomous Driving …,0
+A review of virtual reality studies on autonomous vehicle–pedestrian interaction,"TTM Tran, C Parker, M Tomitsch",2021,IEEE Transactions on Human …,46
+A survey on autonomous vehicle control in the era of mixed-autonomy: From physics-based to AI-guided driving policy learning,"X Di, R Shi",2021,Transportation research part C: emerging technologies,165
+A gender study of communication interfaces between an autonomous car and a pedestrian,CM Chang,2020,12th International Conference on Automotive User …,16
+Navigation system for autonomous vehicle: A survey,"M Imad, MA Hassan, H Junaid",2020,Journal of Computer …,7
+Autonomous driving: a survey of technological gaps using google scholar and web of science trend analysis,"S Hacohen, O Medina, S Shoval",2022,IEEE Transactions on …,10
+"Autonomous buses: Intentions to use, passenger experiences, and suggestions for improvement","K Mouratidis, VC Serrano",2021,… research part F: traffic psychology and …,75
+Comprehensive review of data exchange in vehicle-to-pedestrian communications: State of the art,"ZH Kareem, KN bin Ramli, AM Jawad",2021,… of Engineering and …,0
+Vulnerable road users and connected autonomous vehicles interaction: A survey,"A Reyes-Muñoz, J Guerrero-Ibáñez",2022,Sensors,22
+A survey of vehicle trajectory prediction based on deep learning models,"Manish, U Dohare, S Kumar",2023,Proceedings of Third International …,3
+What are social norms for low-speed autonomous vehicle navigation in crowded environments? An online survey,"M Golchoubian, M Ghafurian, NL Azad",2021,Proceedings of the 9th …,3
+External human–machine interfaces can be misleading: An examination of trust development and misuse in a CAVE-based pedestrian simulation environment,"AA Kaleefathullah, N Merat, YM Lee",2022,Human …,82
+State estimation and motion prediction of vehicles and vulnerable road users for cooperative autonomous driving: A survey,"P Ghorai, A Eskandarian, YK Kim",2022,IEEE transactions on …,57
+Autonomous vehicle-pedestrian interaction across cultures: towards designing better external Human Machine Interfaces (eHMIs),"C Ranasinghe, K Holländer, R Currano",2020,Extended abstracts of …,28
+"Perspective, survey and trends: Public driving datasets and toolsets for autonomous driving virtual test","P Ji, R Li, Y Xue, Q Dong, L Xiao",2021,2021 IEEE International …,5
+Assessing Traffic Characteristics for Safe Pedestrian Crossings: Developing Warrants for Sustainable Urban Safety,"S Chauhan, S Dave, J Shah, A Kedia",2024,Sustainability,0
+Sound decisions: How synthetic motor sounds improve autonomous vehicle-pedestrian interactions,"D Moore, R Currano, D Sirkin",2020,12th International Conference on …,34
+New urban planning challenges under emerging autonomous mobility: Evaluating backcasting scenarios and policies through an expert survey,"S Nogués, E González-González, R Cordera",2020,Land Use Policy,53
+A V2P collision risk warning method based on LSTM in IOV,"R Pan, L Jie, X Zhang, S Pang",2022,Security and …,3
+"How simulation helps autonomous driving: A survey of sim2real, digital twins, and parallel intelligence","X Hu, S Li, T Huang, B Tang, R Huai",2023,IEEE Transactions on …,22
+Autonomous convoying: A survey on current research and development,"S Nahavandi, S Mohamed, I Hossain",2022,IEEE …,16
+Survey of state-of-art autonomous driving technologies with deep learning,"Y Huang, Y Chen",2020,2020 IEEE 20th international conference on …,54
+EU long-term dataset with multiple sensors for autonomous driving,"Z Yan, L Sun, T Krajník",2020,2020 IEEE/RSJ …,100
+"A survey on autonomous driving datasets: Statistics, annotation quality, and a future outlook","M Liu, E Yurtsever, J Fossaert, X Zhou",2024,IEEE Transactions …,4
+A socio-technical model of autonomous vehicle adoption using ranked choice stated preference data,"KE Asmussen, A Mondal, CR Bhat",2020,Transportation Research Part C …,74
+Advanced techniques for perception and localization in autonomous driving systems: A survey,"Q Sellat, K Ramasubramanian",2022,Optical Memory and Neural Networks,5
+A study on the evaluation method of autonomous emergency vehicle braking for pedestrians test using monocular cameras,"BJ Kim, SB Lee",2020,Applied Sciences,13
+Proposals for using the advanced tools of communication between autonomous vehicles and infrastructure in selected cases,"M Zawodny, M Kruszyna",2022,Energies,4
+Sharing the road with autonomous vehicles: Perceived safety and regulatory preferences,"GS Nair, CR Bhat",2021,Transportation research part C: emerging technologies,93
+"Deep learning for object detection and scene perception in self-driving cars: Survey, challenges, and open issues","A Gupta, A Anpalagan, L Guan, AS Khwaja",2021,Array,409
+Gisnet: Graph-based information sharing network for vehicle trajectory prediction,"Z Zhao, H Fang, Z Jin, Q Qiu",2020,2020 International Joint …,43
+"It practically drives itself: autonomous vehicle technology, psychological attitudes, and susceptibility to risky driving behaviors","MC Azuma, FB Giordano, SA Stoffregen, LS Klos",2023,Ergonomics,5
+Deep inverse reinforcement learning for behavior prediction in autonomous driving: Accurate forecasts of vehicle motion,"T Fernando, S Denman, S Sridharan",2020,IEEE Signal …,59
+Autonomous Vehicles in 5G and beyond: A Survey,"S Hakak, TR Gadekallu, PKR Maddikunta",2023,Vehicular …,98
+Autonomous driving with deep learning: A survey of state-of-art technologies,"Y Huang, Y Chen",2020,arXiv preprint arXiv:2006.06091,96
+A survey on autonomous vehicles simulators.,"LH Meftah, R Braham",2022,Journal of Information Assurance & …,2
+CSR: cascade conditional variational auto encoder with socially-aware regression for pedestrian trajectory prediction,"H Zhou, D Ren, X Yang, M Fan, H Huang",2023,Pattern Recognition,8
+Towards future pedestrian-vehicle interactions: Introducing theoretically-supported AR prototypes,"W Tabone, YM Lee, N Merat, R Happee",2021,… on Automotive User …,31
+Improving the experience in the pedestrian's interaction with an autonomous vehicle: an ergonomic comparison of external HMI,"N Métayer, S Coeugnet",2021,Applied ergonomics,27
+Increasing pedestrian safety using external communication of autonomous vehicles for signalling hazards,"M Colley, S Li, E Rukzio",2021,… of the 23rd International Conference on …,20
+Will automated vehicles encourage more jaywalking? Results from a stated preference survey,"X Dong, E Guerra, RA Daziano",2024,… research part F: traffic psychology and …,0
+A comprehensive survey of LIDAR-based 3D object detection methods with deep learning for autonomous driving,"G Zamanakos, L Tsochatzidis, A Amanatiadis",2021,Computers & …,104
+Mixed test environment-based vehicle-in-the-loop validation-a new testing approach for autonomous vehicles,"Y Chen, S Chen, T Xiao, S Zhang",2020,2020 IEEE intelligent …,34
+"A survey on autonomous driving datasets: Data statistic, annotation, and outlook","M Liu, E Yurtsever, X Zhou, J Fossaert, Y Cui",2024,arXiv preprint arXiv …,10
+Sim2real and digital twins in autonomous driving: A survey,"X Hu, S Li, T Huang, B Tang, L Chen",2023,arXiv preprint arXiv:2305.01263,5
+I can see the light: Attacks on autonomous vehicles using invisible lights,"W Wang, Y Yao, X Liu, X Li, P Hao, T Zhu",2021,Proceedings of the 2021 …,42
+FMCW-MIMO radar-based pedestrian trajectory tracking under low-observable environments,"X Fang, J Li, Z Zhang, G Xiao",2022,IEEE Sensors Journal,9
+Evaluating Pedestrian Trajectory Prediction Methods for the Application in Autonomous Driving,"N Uhlemann, F Fent, M Lienkamp",2023,arXiv preprint arXiv:2308.05194,2
+"Humanizing autonomous vehicle driving: Understanding, modeling and impact assessment","FP Orfanou, EI Vlahogianni, G Yannis",2022,… research part F: traffic …,9
+Autonomous vehicle-cyclist interaction: Peril and promise,"M Hou, K Mahadevan, S Somanath, E Sharlin",2020,Proceedings of the …,62
+Predicting Pedestrian Crossing Behavior at Unsignalized Mid-Block Crosswalks Using Maximum Entropy Deep Inverse Reinforcement Learning,"Y Wang, Y Niu, W Zhu, W Chen, Q Li",2023,IEEE Transactions on …,0
+The adaptability and challenges of autonomous vehicles to pedestrians in urban China,"K Wang, G Li, J Chen, Y Long, T Chen, L Chen",2020,Accident Analysis & …,65
+Incorporating driving knowledge in deep learning based vehicle trajectory prediction: A survey,"Z Ding, H Zhao",2023,IEEE Transactions on Intelligent Vehicles,7
+A systematic survey of control techniques and applications in connected and automated vehicles,"W Liu, M Hua, Z Deng, Z Meng, Y Huang",2023,IEEE Internet of …,62
+External human–machine interfaces for autonomous vehicles from pedestrians' perspective: A survey study,"J Guo, Q Yuan, J Yu, X Chen, W Yu, Q Cheng, W Wang",2022,Sensors,13
+Insights and strategies for an autonomous vehicle with a sensor fusion innovation: A fictional outlook,"F Hafeez, UU Sheikh, N Alkhaldi, HZ Al Garni",2020,IEEE …,32
+Impact of autonomous vehicles on the car-following behavior of human drivers,"R Zhang, S Masoud, N Masoud",2023,Journal of transportation …,10
+A Survey of Deep Learning-Based Multimodal Vehicle Trajectory Prediction Methods,"X Wang, L Zhou, Y Liu",2023,China Conference on Wireless Sensor Networks,0
+"Infrastructure requirement for autonomous vehicle integration for future urban and suburban roads–Current practice and a case study of Melbourne, Australia","H Manivasakan, R Kalra, S O'Hern, Y Fang, Y Xi",2021,… Research Part A: Policy …,73
+"Pedestrian safety using the Internet of things and sensors: Issues, challenges, and open problems","R Hasan, R Hasan",2022,Future generation computer systems,41
+Autonomous vehicle experiments and the city,"R Dowling, P McGuirk",2022,Urban Geography,42
+How effective are pedestrian crash prevention systems in improving pedestrian safety? Harnessing large-scale experimental data,"I Mahdinia, AJ Khattak, AM Haque",2022,Accident Analysis & Prevention,16
+Intent Prediction of Pedestrians via Integration of Facial Expression and Human 2D Skeleton for Autonomous Car-like Mobile Robots,"X Zhu, W Fu, X Xu",2021,2021 IEEE 16th Conference on Industrial …,1
+A survey of collaborative machine learning using 5G vehicular communications,"SV Balkus, H Wang, BD Cornet",2022,… Surveys & Tutorials,72
+Stronger family ties vs. less social contact: Use intention of autonomous vehicles in family tourism,"YC Wang, T Kato, YD Lu",2024,Journal of Destination Marketing & Management,0
+Impact of autonomous vehicles on discretionary activities: an agent-based model with space–time accessibility constraints,"L Feng, JM Betts, L Kamruzzaman, HL Vu",2024,Transportation,0
+eHMI: Review and guidelines for deployment on autonomous vehicles,"J Carmona, C Guindel, F Garcia, A de la Escalera",2021,Sensors,67
+Designing wearable augmented reality concepts to support scalability in autonomous vehicle-pedestrian interaction,"TTM Tran, C Parker, Y Wang",2022,Frontiers in Computer …,19
+What Drives People's Willingness to Adopt Autonomous Vehicles? A Review of Internal and External Factors,"MM Rahman, JC Thill",2023,Sustainability,7
+Interpreting externally expressed intentions of an autonomous vehicle,"M Oidekivi, A Nolte, A Aabloo",2021,2021 14th International …,0
+"A Survey of Integrated Simulation Environments for Connected Automated Vehicles: Requirements, Tools, and Architecture","VG Stepanyants, AY Romanov",2023,IEEE Intelligent Transportation …,2
+Vehicle trajectory prediction using LSTMs with spatial–temporal attention mechanisms,"L Lin, W Li, H Bi, L Qin",2021,IEEE Intelligent Transportation Systems …,165
+Unveiling the lack of scalability in research on external communication of autonomous vehicles,"M Colley, M Walch, E Rukzio",2020,Extended abstracts of the 2020 chi …,53
+Autonomous vehicle dataset with real multi-driver scenes and biometric data,"F Rosique, PJ Navarro, L Miller, E Salas",2023,Sensors,4
+Crossing the street in front of an autonomous vehicle: An investigation of eye contact between drivengers and vulnerable road users,"A Sahaï, E Labeye, L Caroux, C Lemercier",2022,Frontiers in psychology,6
+Towards autonomous vehicles: a survey on cooperative vehicle-infrastructure system,"JI Yangjie, Z Zewei, Y Ziru, Y Huang, Y Zhang",2024,Iscience,0
+I see you: A vehicle-pedestrian interaction dataset from traffic surveillance cameras,"H Quispe, J Sumire, P Condori, E Alvarez",2022,arXiv preprint arXiv …,5
+Stated preference analysis of autonomous vehicle among bicyclists and pedestrians in Pittsburgh using Bayesian Networks,"D Imanishimwe, A Kumar",2023,Accident Analysis & Prevention,2
+Plop: Probabilistic polynomial objects trajectory planning for autonomous driving,"T Buhet, E Wirbel, A Bursuc, X Perrotton",2020,arXiv preprint arXiv:2003.08744,27
+Communication between autonomous vehicles and pedestrians: an experimental study using virtual reality,"S Zhanguzhinova, E Mako, A Borsos, ÁP Sándor",2023,Sensors,5
+Information or advice? A virtual reality study of message content for road crossing in front of autonomous cars,"É Ah-Tchine, E de Vries",2020,Le travail humain,1
+Plop: Probabilistic polynomial objects trajectory prediction for autonomous driving,"T Buhet, E Wirbel, A Bursuc",2021,Conference on Robot …,9
+Adversarial Pedestrian Modeling based on Deep Reinforcement Learning Method by Using Collision Momentum,D Chen,2023,NA,0
+Autonomous vehicle decision-making and control in complex and unconventional scenarios—a review,"F Sana, NL Azad, K Raahemifar",2023,Machines,9
+Improving Mapping and Selection of Low-Speed Autonomous Vehicle Shuttle Routes: A Data-Driven Framework,"BM Staes, RL Bertini, N Menon",2022,Automated People Movers and …,0
+"Comparison of vehicle-to-bicyclist and vehicle-to-pedestrian communication feedback module: a study on increasing legibility, public acceptance and trust","M Schmidt-Wolf, D Feil-Seifer",2022,2022 31st IEEE International …,5
+Perceptions towards autonomous vehicle acceptance: Information mining from Self-Organizing Maps and Random Forests,"A Ziakopoulos, C Telidou, A Anagnostopoulos",2023,IATSS Research,0
+An integrated traffic and vehicle co-simulation testing framework for connected and autonomous vehicles,"Y Shi, Z Liu, Z Wang, J Ye, W Tong",2022,IEEE Intelligent …,17
+Suicidal Pedestrian: Generation of safety-critical scenarios for autonomous vehicles,"Y Yang, K Kujanpää, IA Babadi",2023,2023 IEEE 26th …,0
+Social interactions for autonomous driving: A review and perspectives,"W Wang, L Wang, C Zhang, C Liu",2022,Foundations and Trends …,97
+Where to from here? On the future development of autonomous vehicles from a cognitive systems perspective,"S Mahmoud, E Billing, H Svensson, S Thill",2022,Cognitive Systems Research,8
+Application of LargeSpace for Investigating Pedestrians' Behaviors when Interacting with Autonomous Vehicles in Shared Spaces,"A Andrijanto, Z Chen, T Kodama",2022,2022 IEEE Conference …,0
+Autonomous Vehicle & Pedestrian Interaction,T Uji,2022,NA,0
+HTIM: A Hybrid Deep Learning Approach For Pedestrian Trajectory Imputation,"DK Barua, M Halder, S Shopnil, MM Islam",2024,NA,0
+Pedestrian Behavior Maps for Safety Advisories: CHAMP Framework and Real-World Data Analysis,"R Greer, S Desai, L Rakla",2023,2023 IEEE Intelligent …,1
+"Passengers' acceptance and perceptions of risk while riding in an automated vehicle on open, public roads","MT Pascale, D Rodwell, P Coughlan, SA Kaye",2021,… research part F: traffic …,16
+Learning Pedestrian Actions to Ensure Safe Autonomous Driving,"J Huang, A Gautam, S Saripalli",2023,2023 IEEE Intelligent Vehicles …,2
+"High-definition maps: Comprehensive survey, challenges and future perspectives","G Elghazaly, R Frank, S Harvey",2023,IEEE Open Journal of …,19
+Fostering Fuzzy Logic in Enhancing Pedestrian Safety: Harnessing Smart Pole Interaction Unit for Autonomous Vehicle-to-Pedestrian Communication and Decision …,"V Chauhan, CM Chang, E Javanmardi, J Nakazato",2023,Electronics,1
+Context-aware pedestrian trajectory prediction with multimodal transformer,"H Damirchi, M Greenspan",2023,2023 IEEE International …,3
+City readiness for connected and autonomous vehicles: A multi-stakeholder and multi-criteria analysis through analytic hierarchy process,"L Jiang, H Chen, Z Chen",2022,Transport policy,16
+A reinforcement learning approach for enacting cautious behaviours in autonomous driving system: Safe speed choice in the interaction with distracted pedestrians,"GPR Papini, A Plebe, M Da Lio",2021,IEEE transactions on …,20
+Behavioral intention prediction in driving scenes: A survey,"J Fang, F Wang, J Xue, TS Chua",2024,IEEE Transactions on …,19
+The Survey of Self-driving Car Challenges in Smart City Infrastructures,N Kulabukhova,2023,… Conference on Computational Science and Its …,2
+Effectiveness of the autonomous braking and evasive steering system OPREVU-AES in simulated vehicle-to-pedestrian collisions,"Á Losada, FJ Páez, F Luque, L Piovano",2023,Vehicles,2
+Autonomous Vehicles from another Perspective–A Literature Analysis,L Berek,2023,Interdisciplinary Description of Complex Systems …,0
+Social Intelligence for Autonomous Vehicles Interacting With Vulnerable Road Users,"Y Chen, R Tian",2024,IEEE Transactions on Intelligent …,0
+"Dynamicmap 2.0: A traffic data management platform leveraging clouds, edges and embedded systems","Y Watanabe, K Sato, H Takada",2020,International Journal of Intelligent …,32
+System configuration of Human-in-the-loop Simulation for Level 3 Autonomous Vehicle using IPG CarMaker,"CJ Hong, VR Aparow",2021,… conference on internet of things and …,12
+A survey on modeling for behaviors of complex intelligent systems based on generative adversarial networks,"Y Lv, J Duan, X Li",2024,Computer Science Review,0
+Key Requirements for Autonomous Micromobility Vehicle Simulators,"L Luttkus, L Mikelsons",2023,2023 IEEE International Conference on …,0
+Autonomous Vehicles and Their Impacts on Discretionary Activities,"L Feng, JM Betts, L Kamruzzaman, HL Vu",2024,NA,0
+Pedestrians' Understanding of a Fully Autonomous Vehicle's Intent to Stop: Utilizing Video-based Crossing Scenarios,"M Hochman, Y Parmet, T Oron-Gilad",2022,Proceedings of the RSS,2
+Research on quantum cognition in autonomous driving,"Q Song, W Wang, W Fu, Y Sun, D Wang, Z Gao",2022,Scientific reports,23
+What humanlike errors do autonomous vehicles need to avoid to maximize safety?,"AS Mueller, JB Cicchino, DS Zuby",2020,Journal of safety research,86
+Stochastic pedestrian avoidance for autonomous vehicles using hybrid reinforcement learning,"H Li, J Huang, Z Cao, D Yang, Z Zhong",2023,Frontiers of Information …,8
+""" It Must Be Gesturing Towards Me"": Gesture-Based Interaction between Autonomous Vehicles and Pedestrians","X Chang, Z Chen, X Dong, Y Cai, T Yan, H Cai",2024,arXiv preprint arXiv …,1
+"Smart cities, urban mobility and autonomous vehicles: How different cities needs different sustainable investment strategies","MA Richter, M Hagenmaier, O Bandte, V Parida",2022,… Forecasting and Social …,46
+Pedestrian collision avoidance using deep reinforcement learning,"A Rafiei, AO Fasakhodi, F Hajati",2022,International journal of automotive …,10
+Review of graph-based hazardous event detection methods for autonomous driving systems,"D Xiao, M Dianati, WG Geiger",2023,IEEE Transactions on …,10
+Communication and mobility issues of visually impaired pedestrians with connected autonomous vehicles,"S Azizi Soldouz, MS Hasnine, M Sukhai",2023,Transportation …,0
+Relation-based motion prediction using traffic scene graphs,"M Zipfl, F Hertlein, A Rettinger, S Thoma",2022,2022 IEEE 25th …,8
+Conceptual model of the automated pedestrian simulation system for unmanned vehicles and ADAS systems testing,"AA Tumanov, AV Zolotov, LO Fedosova",2021,IOP Conference Series …,0
+Evaluation of autonomous emergency braking by using a theoretical formula and dual cameras,"BJ Kim, SB Lee",2023,… of the Institution of Mechanical Engineers …,0
+On the required movement recognition accuracy in cooperative VRU collision avoidance systems,"M Bachmann, M Morold, K David",2020,IEEE Transactions on …,20
+"Champ: Crowdsourced, history-based advisory of mapped pedestrians for safer driver assistance systems","R Greer, L Rakla, S Desai, A Alofi",2023,arXiv preprint arXiv …,3
+High-Definition Maps Construction Based on Visual Sensor: A Comprehensive Survey,"X Tang, K Jiang, M Yang, Z Liu, P Jia",2023,IEEE Transactions …,3
+A New Methodology for Analysing Interactions between an Autonomous Vehicle and other Users,"JMR Velázquez, PH Salmane",2023,2023 IEEE 13th …,0
+"How should external Human-Machine Interfaces behave? Examining the effects of colour, position, message, activation distance, vehicle yielding, and visual …","P Bazilinskyy, L Kooijman, D Dodou, JCF De Winter",2021,Applied ergonomics,50
+Autonomous Vehicle Decision Making and Urban Infrastructure Optimization,"G Mudrak, SK Semwal",2021,Intelligent Computing: Proceedings of the 2021 …,1
+Forecasting the effects of autonomous vehicles on land use,"R Bridgelall, E Stubbing",2021,Technological Forecasting and Social Change,30
+A Survey on the Use of Container Technologies in Autonomous Driving and the Case of BeIntelli,"B Acar, MG Augusto, M Sterling",2023,IEEE Open Journal …,0
+Predictive trajectory planning for autonomous vehicles at intersections using reinforcement learning,"E Zhang, R Zhang, N Masoud",2023,Transportation Research Part C: Emerging …,14
+Deep learning-based pedestrian detection in autonomous vehicles: Substantial issues and challenges,"S Iftikhar, Z Zhang, M Asim, A Muthanna",2022,Electronics,51
+Simulation Framework for Testing Autonomous Vehicles in a School for the Blind Campus,"K Kalidas, SY Gelbal, BA Guvenc",2021,NA,1
+Agent-based models for simulating e-scooter sharing services: A review and a qualitative assessment,"PG Tzouras, L Mitropoulos, E Stavropoulou",2023,International Journal of …,28
+Involvement of Deep Learning for Vision Sensor-Based Autonomous Driving Control: A Review,"A Khanum, CY Lee, CS Yang",2023,IEEE Sensors Journal,5
+A case study of unavoidable accidents of autonomous vehicles,"Z Sun, M Lin, W Chen, B Dai, P Ying",2024,Traffic injury …,1
+A corridor-level pedestrian crash risk assessment framework using autonomous vehicle sensor data,S Singh,2023,NA,0
+Computer Vision Based Sensor System for Autonomous Vehicles,"M Gorobetz, AB Srinivasa",2021,TRANSPORT MEANS 2021,0
+Substituting individual mobility by mobility on demand using autonomous vehicles-a sustainable assessment simulation of Berlin and Stuttgart,"G Fournier, A Boos, R Wörner",2020,International …,18
+Multimodal Data Trajectory Prediction: A Review,"X Wang, H Yue, Q Yang",2023,2023 IEEE 10th International …,1
+Control-aware prediction objectives for autonomous driving,"R McAllister, B Wulfe, J Mercat, L Ellis",2022,… on Robotics and …,22
+Image-based automatic traffic lights detection system for autonomous cars: a review,"S Gautam, A Kumar",2023,Multimedia Tools and Applications,10
+Adaptive road configurations for improved autonomous vehicle-pedestrian interactions using reinforcement learning,"Q Ye, Y Feng, JJE Macias, M Stettler",2022,IEEE transactions on …,1
+Computer and Information Sciences,"BB Elallid, N Benamar, AS Hafid, T Rachidi, N Mrani",2022,NA,0
+A software architecture for autonomous vehicles: Team lrm-b entry in the first carla autonomous driving challenge,"LA Rosero, IP Gomes, JAR da Silva, TC Santos",2020,arXiv preprint arXiv …,8
+Language of driving for autonomous vehicles,"K Kalda, SL Pizzagalli, RM Soe, R Sell, M Bellone",2022,Applied Sciences,3
+Pedestrian safety in an automated driving environment: Calibrating and evaluating the responsibility-sensitive safety model,"X Wang, C Ye, M Quddus, A Morris",2023,Accident Analysis & Prevention,4
+From traffic sensor data to semantic traffic descriptions: The test area autonomous driving baden-württemberg dataset (taf-bw dataset),"M Zipfl, T Fleck, MR Zofka",2020,2020 IEEE 23rd …,17
+A learning-based vehicle trajectory-tracking approach for autonomous vehicles with lidar failure under various lighting conditions,"M Cao, R Wang, N Chen, J Wang",2021,IEEE/ASME transactions on …,13
+To Cross or Not-to-Cross: A Robotic Object for Mediating Interactions Between Autonomous Vehicles and Pedestrians,"SC Kumaran, A Oberlender, A Grishko",2023,2023 32nd IEEE …,2
+Role of 5G in vehicular network for smart vehicles in smart cities,"G Suciu, I Hussain, IA Esanu",2021,2021 IEEE 27th …,3
+CISCAV: Consensus-based intersection scheduling for connected autonomous vehicles,"E Regnath, M Birkner",2021,2021 IEEE International …,3
+Is attention to bounding boxes all you need for pedestrian action prediction?,"L Achaji, J Moreau, T Fouqueray",2022,2022 IEEE Intelligent …,28
+HAVIT: A VR-Based Platform to Support Human-Autonomous Vehicle Interaction Study,"X Guo, D Wan, D Liu, C Mousas, Y Chen",2022,International Conference on …,1
+Road: The road event awareness dataset for autonomous driving,"G Singh, S Akrigg, M Di Maio, V Fontana",2022,IEEE transactions on …,74
+Introducing autonomous buses into street functional classification systems: An exploratory spatial approach,"S Tsigdinos, C Karolemeas, E Bakogiannis",2021,Case studies on transport …,20
+Autonomous vehicles drive into shared spaces: ehmi design concept focusing on vulnerable road users,"Y Li, H Cheng, Z Zeng, H Liu",2021,2021 IEEE International …,34
+Predicting the intention of distracted pedestrians at road crossings,"AL O'Dell, AJ Filtness, AP Morris",2022,Accident Analysis & Prevention,12
+Towards A Real-Time Emergency Response Model For Connected And Autonomous Vehicles.,"YH Liu, O de Paula Albuquerque, PCK Hung",2022,CIKM …,1
+CAR--Cityscapes Attributes Recognition A Multi-category Attributes Dataset for Autonomous Vehicles,"K Metwaly, A Kim, E Branson, V Monga",2021,arXiv preprint arXiv:2111.08243,3
+Autonomous vehicles: an analysis both on their distinctiveness and the potential impact on urban transport systems,"A Severino, S Curto, S Barberi, F Arena, G Pau",2021,Applied Sciences,42
+How much do you trust your self-driving car? exploring human-robot trust in high-risk scenarios,"J Xu, A Howard",2020,"… on Systems, Man, and Cybernetics (SMC)",13
+Efficiency and Safety Evaluation of Left-turn Vehicles and Crossing Pedestrians in Signalized Intersections under the Autonomous Vehicle Mixed Flow Condition,"A Pan, X Zhang, M Iryo-Asano, H Nakamura",2022,International Journal of …,0
+Trajectory prediction using equivariant continuous convolution,"R Walters, J Li, R Yu",2020,arXiv preprint arXiv:2010.11344,51
+A survey on robustness in trajectory prediction for autonomous vehicles,"J Hagenus, FB Mathiesen, JF Schumann",2024,arXiv preprint arXiv …,0
+Comparison of Simulators based on Scenario-based Testing of Autonomous Vehicles,"VR Nalawade, M Kumar, AS Bhandari",2022,… Conference on Smart …,0
+Envisioning Autonomy,G Martin,2022,NA,0
+Location-based schemes for mitigating cyber threats on connected and automated vehicles: a survey and design framework,"D Suo, J Moore, M Boesch, K Post",2020,IEEE transactions on …,19
+Vulnerable Road User Safety Using Mobile Phones with Vehicle-to-VRU Communication,"SY Gelbal, B Aksun-Guvenc, L Guvenc",2024,Electronics,1
+Gamma: A general agent motion model for autonomous driving,"Y Luo, P Cai, Y Lee, D Hsu",2022,IEEE Robotics and Automation …,40
+Simulating crowds and autonomous vehicles,"J Charlton, LRM Gonzalez, S Maddock",2020,… Science XXXVII: Special …,12
+Learning to Estimate Multivariate Uncertainty in Deep Pedestrian Trajectory Prediction,"AR Castro, V Grassi",2023,"… on Robotics (SBR), and 2023 Workshop …",0
+Active Obstacle Avoidance Trajectory Planning for Vehicles Based on Obstacle Potential Field and MPC in V2P Scenario,"R Pan, L Jie, X Zhao, H Wang, J Yang, J Song",2023,Sensors,7
+CIPF: Crossing intention prediction network based on feature fusion modules for improving pedestrian safety,"JS Ham, DH Kim, NK Jung",2023,Proceedings of the IEEE …,7
+Immediate vehicle movement estimation and 3D reconstruction for Mono cameras by utilizing epipolar geometry and direction prior,"Z Rozsa, M Golarits, T Sziranyi",2022,IEEE Transactions on …,5
+Trajectory planning approach for autonomous electric bus in dynamic environment,"A Waleed, S Hammad, M Abdelaziz",2023,Proceedings of the …,0
+Effectiveness of the Autonomous Braking and Evasive Steering System OPREVU-AES in Real World Vehicle-to-pedestrian collisions,"Á Losada, FJ Páez, F Luque, L Piovano",2022,NA,0
+A seamless navigation system and applications for autonomous vehicles using a tightly coupled GNSS/UWB/INS/map integration scheme,"C Wang, A Xu, X Sui, Y Hao, Z Shi, Z Chen",2021,Remote Sensing,16
+Application of Hybrid Deep Reinforcement Learning for Managing Connected Cars at Pedestrian Crossings: Challenges and Research Directions,"A Brunoud, A Lombard, N Gaud, A Abbas-Turki",2024,Future Transportation,0
+Vehicular applications of koopman operator theory—a survey,"WA Manzoor, S Rawashdeh, A Mohammadi",2023,IEEE Access,7
+A highly accurate positioning solution for C-V2X systems,"Q Liu, P Liang, J Xia, T Wang, M Song, X Xu, J Zhang",2021,Sensors,23
+A Method for Evaluating the Complexity of Autonomous Driving Road Scenes,"H Ni, J Wu",2024,NA,0
+MPC-PF: Social interaction aware trajectory prediction of dynamic objects for autonomous driving using potential fields,"NP Bhatt, A Khajepour",2022,2022 IEEE/RSJ …,4
+Mobile Safety Application for Pedestrians Utilizing P2V Communication over Bluetooth,"SY Gelbal, MR Cantas, BA Guvenc, L Guvenc",2022,NA,6
+Paracosm: A Test Framework for Autonomous Driving Simulations,"R Majumdar, A Mathur, M Pirron",2021,International …,34
+Routing and scheduling of intelligent autonomous vehicles in industrial logistics systems,"SS Abosuliman, AO Almagrabi",2021,Soft Computing,34
+A Shared Low-Speed Light-Weight Autonomous Mobility (SLLAM) System for Campus Environments,Z Zhang,2023,NA,0
+A Social Approach for Autonomous Vehicles: A Robotic Object to Enhance Passengers' Sense of Safety and Trust,"S Chakravarthi Kumaran, T Bechor, H Erel",2024,Proceedings of the 2024 …,0
+Evolution of traffic microsimulation and its use for modeling connected and automated vehicles,"N Raju, H Farah",2021,Journal of Advanced Transportation,40
+A Systematic literature review of autonomous and connected vehicles in traffic management,F Alanazi,2023,Applied Sciences,22
+Multimodal deep generative models for trajectory prediction: A conditional variational autoencoder approach,"B Ivanovic, K Leung, E Schmerling",2020,IEEE Robotics and …,103
+"Advances, Opportunities and Challenges in AI-enabled Technologies for Autonomous and Connected Vehicles","YL Murphey, I Kolmanovsky, P Watta",2022,… Technologies for Autonomous and …,1
+Implementation of ADAS and Autonomy on UNLV Campus,Z Rahman,2023,NA,0
+Social Interaction‐Aware Dynamical Models and Decision‐Making for Autonomous Vehicles,"L Crosato, K Tian, HPH Shum, ESL Ho",2024,Advanced Intelligent …,7
+Deep encoder–decoder-NN: A deep learning-based autonomous vehicle trajectory prediction and correction model,"F Hui, C Wei, W ShangGuan, R Ando, S Fang",2022,Physica A: Statistical …,22
+Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction,"J You, H Shi, K Wu, K Long, S Fu, S Chen",2024,arXiv preprint arXiv …,0
+Unsupervised pedestrian pose prediction: A deep predictive coding network-based approach for autonomous vehicle perception,"X Du, R Vasudevan",2020,IEEE Robotics & …,5
+Save the Smombies: App-assisted street crossing,"K Holländer, A Krüger, A Butz",2020,22nd International Conference on …,26
+A survey on data-driven scenario generation for automated vehicle testing,"J Cai, W Deng, H Guang, Y Wang, J Li, J Ding",2022,Machines,30
+Don't go that way! risk-aware decision making for autonomous vehicles,"K Mokhtari, KA Lang, AR Wagner",2020,"… 2020, Golden, CO, USA, November 14 …",4
+LSTM-based prediction method of surrounding vehicle trajectory,"K Wang, Y Qian, T An, Z Zhang",2022,… Conference on Artificial …,4
+Autonomous Vehicle Dataset with Real Multi-Driver Scenes and Biometric Data,"MF Rosique Contreras, PJ Navarro Lorente, LR Miller",2023,NA,0
+Hybrid autonomous driving guidance strategy combining deep reinforcement learning and expert system,"Y Fu, C Li, FR Yu, TH Luan",2021,IEEE Transactions on …,29
+MPC-PF: Socially and spatially aware object trajectory prediction for autonomous driving systems using potential fields,"NP Bhatt, A Khajepour",2023,IEEE Transactions on …,14
+Analysis of the Interaction between Humans and Autonomous Vehicles Equipped with External Human–Machine Interfaces: The Effect of an Experimental Reward …,"R Almeida, E Sousa, D Machado, F Pereira, S Faria",2024,Sustainability,0
+From senses to sensors: autonomous cars and probing what machine learning does to mobilities studies,"D Mukhtar-Landgren, A Paulsson",2023,Distinktion: Journal of Social …,0
+An end-to-end curriculum learning approach for autonomous driving scenarios,"L Anzalone, P Barra, S Barra",2022,IEEE Transactions …,25
+Game theory-based framework for modeling human–vehicle interactions on the road,"Y Rahmati, A Talebpour, A Mittal",2020,Transportation …,18
+External Human-Machine Interfaces: Which of 729 colors is best for signaling 'Please (do not) cross'?,"P Bazilinskyy, D Dodou",2020,2020 IEEE International …,35
+Enhanced perception for autonomous driving using semantic and geometric data fusion,"H Florea, A Petrovai, I Giosan, F Oniga, R Varga",2022,Sensors,17
+Dynamic Spatio-temporal Graph Neural Network for Surrounding-aware Trajectory Prediction of Autonomous Vehicles,"H Sadid, C Antoniou",2024,IEEE Transactions on Intelligent Vehicles,1
+Group vehicle trajectory prediction with global spatio-temporal graph,"D Xu, X Shang, Y Liu, H Peng",2022,IEEE Transactions on …,23
+A comparative study of state-of-the-art driving strategies for autonomous vehicles,"C Zhao, L Li, X Pei, Z Li, FY Wang, X Wu",2021,Accident Analysis & Prevention,95
+Autonomous Vehicle Along with Surrounding Agent's Path Prediction Using CNN-Based Models,"RP Kumar, K Srinivas, J Amudha",2023,… International Conference on …,0
+"Where We're Going, We Don't Need Drivers: Autonomous Vehicles and AI-Chaperone Liability",PY Kim,2020,Cath. UL Rev.,7
+Learning navigation priors based on adaptive data aggregation,V Widhalm,2023,NA,0
+A review of occluded objects detection in real complex scenarios for autonomous driving,"J Ruan, H Cui, Y Huang, T Li, C Wu, K Zhang",2023,Green energy and intelligent …,9
+Defensive or competitive Autonomous Vehicles: Which one interacts safely and efficiently with pedestrians?,"H Zhu, W Alhajyaseen, M Iryo-Asano",2022,Physica A: Statistical …,3
+Design and Analysis of Different Behaviors of Autonomous Vehicles using Petrinets,"CJ Chandnani, R Raj",2023,… Conference on Computing …,0
+Development of Behavior-Based Control Systems for Autonomous Vehicle Navigation in Urban Environment,AH Al-Salah,2022,NA,0
+Ghost on the windshield: Employing a virtual human character to communicate pedestrian acknowledgement and vehicle intention,"A Rouchitsas, H Alm",2022,Information,9
+A Dynamic Evolution Method for Autonomous Vehicle Groups in an Urban Scene,"G Yuan, J Cheng, MC Zhou, S Cheng",2022,"… on Systems, Man …",2
+A Comprehensive Survey Exploring the Multifaceted Interplay between Mobile Edge Computing and Vehicular Networks,"A Pashazadeh, G Nardini, G Stea",2023,Future Internet,1
+Advancing Explainable Autonomous Vehicle Systems: A Comprehensive Review and Research Roadmap,"S Tekkesinoglu, A Habibovic, L Kunze",2024,arXiv preprint arXiv:2404.00019,1
+"Smart cities, urban mobility and autonomous vehicles","MA Richter, M Hagenmaier, O Bandte",2022,… and Social Change,1
+Impact of Autonomous Vehicles on Capacity of a Two-Lane Highway,"VA Ajay Swaroog, S Alex, P Radhakrishnan",2022,International Conference on …,0
+PI-NeuGODE: Physics-Informed Graph Neural Ordinary Differential Equations for Spatiotemporal Trajectory Prediction,"Z Mo, Y Fu, X Di",2024,… of the 23rd International Conference on Autonomous …,3
+A systematic review of urban navigation systems for visually impaired people,"FEZ El-Taher, A Taha, J Courtney, S Mckeever",2021,Sensors,57
+User Acceptance of Autonomous Vehicles: Review and Perspectives on the Role of the Human-machine Interfaces,"M Yan, L Rampino, G Caruso",2023,Computer-Aided Design and …,5
+Drivetruth: Automated autonomous driving dataset generation for security applications,R Muller,2022,Workshop on Automotive and Autonomous Vehicle …,8
+"The rise of drones in internet of things: A survey on the evolution, prospects and challenges of unmanned aerial vehicles","NS Labib, MR Brust, G Danoy, P Bouvry",2021,IEEE Access,58
+Behavior prediction of traffic actors for intelligent vehicle using artificial intelligence techniques: A review,"S Kolekar, S Gite, B Pradhan, K Kotecha",2021,IEEE Access,20
+Street View Object Detection for Autonomous Car Steering Angle Prediction Using Convolutional Neural Network,"I Sonata, Y Heryadi, W Budiharto",2021,2021 1st International …,1
+"A Preliminary Exploration of Overtrust, Undertrust, and Right Amount of Trust in Autonomous Vehicle and Pedestrian Interaction",M Islam,2023,NA,0
+"Continual learning for real-world autonomous systems: Algorithms, challenges and frameworks","K Shaheen, MA Hanif, O Hasan, M Shafique",2022,Journal of Intelligent & …,53
+Empowering pedestrian safety: unveiling a lightweight scheme for improved vehicle-pedestrian safety,"K Rabieh, R Samir, MA Azer",2024,Information,0
+A survey on the current security landscape of intelligent transportation systems,"A Lamssaggad, N Benamar, AS Hafid, M Msahli",2021,IEEE Access,107
+Research on pedestrian vehicle collision warning based on path prediction,"Y Zhang, X Wang, K Zhuo, W Jiao",2023,2023 7th International …,2
+Predicting vehicle trajectory via combination of model-based and data-driven methods using Kalman filter,"B Zhang, W Yu, Y Jia, J Huang",2023,Proceedings of the …,3
+Assistive self-driving car networks to provide safe road ecosystems for disabled road users,"J Guerrero-Ibañez, J Contreras-Castillo",2023,Machines,1
+"Agent-based models in urban transportation: review, challenges, and opportunities","FF Bastarianto, TO Hancock, CF Choudhury",2023,European Transport …,10
+AI-TP: Attention-based interaction-aware trajectory prediction for autonomous driving,"K Zhang, L Zhao, C Dong, L Wu",2022,IEEE Transactions on …,65
+EgoSpeed-net: Forecasting speed-control in driver behavior from egocentric video data,"Y Ding, Z Zhang, Y Li, X Zhou",2022,… of the 30th International Conference on …,3
+Millimeter-Wave Vehicle-to-Infrastructure Communications for Autonomous Vehicles: Location-Aided Beam Forecasting in 6G,"OB Makadia, DK Patel, KD Shah",2024,2024 16th …,0
+Vehicle crash simulations for safety: Introduction of connected and automated vehicles on the roadways,"R Ren, H Li, T Han, C Tian, C Zhang, J Zhang",2023,Accident Analysis & …,9
+Network Development and Autonomous Vehicles: A Smart Transportation Testbed at Fort Carson: Project Report Summary and Recommendations,"LL Larkin, TA Carlson, WR D'Andrea, AL Johnson",2022,NA,0
+Shared cross-modal trajectory prediction for autonomous driving,"C Choi, JH Choi, J Li, S Malla",2021,Proceedings of the IEEE …,65
+Autonomous vehicle trajectory prediction on multi-lane highways using attention based model,"O Sharma, NC Sahoo, NB Puhan",2023,2023 IEEE 3rd International …,4
+"Enabling technologies for urban smart mobility: Recent trends, opportunities and challenges","S Paiva, MA Ahad, G Tripathi, N Feroz, G Casalino",2021,Sensors,233
+Maneuver-based trajectory prediction for self-driving cars using spatio-temporal convolutional networks,"B Mersch, T Höllen, K Zhao",2021,2021 IEEE/RSJ …,36
+SPAS: Smart pothole-avoidance strategy for autonomous vehicles,"G Raja, S Anbalagan, S Senthilkumar",2022,IEEE Transactions …,21
+"A review of 6G autonomous intelligent transportation systems: Mechanisms, applications and challenges","X Deng, L Wang, J Gui, P Jiang, X Chen, F Zeng",2023,Journal of Systems …,38
+Incorporating Social Information into an Autonomous Vehicle's Decision-Making Process and Control,K Mokhtari,2021,NA,1
+Augmented reality interfaces for pedestrian-vehicle interactions: An online study,"W Tabone, R Happee, J García, YM Lee",2023,… research part F: traffic …,6
+Linked vehicle model: A simple car-following model for automated vehicles,"Y Xiao, Y Liu, X Song, Y Wu",2021,Proceedings of the Institution of …,8
+Driving in the dark: designing autonomous vehicles for reducing light pollution,"T Stone, F Santoni de Sio, PE Vermaas",2020,Science and engineering ethics,44
+"3D object detection for autonomous driving: Methods, models, sensors, data, and challenges","A Ghasemieh, R Kashef",2022,Transportation Engineering,39
+Evolution of Equipment in Electromobility and Autonomous Driving Regarding Safety Issues,"C Katis, A Karlis",2023,Energies,2
+Graph neural networks in IoT: A survey,"G Dong, M Tang, Z Wang, J Gao, S Guo, L Cai",2023,ACM Transactions on …,70
+Impatience on Autonomous Vehicle Decision Making & Urban Infrastructure Management,GF Mudrak,2020,NA,0
+Towards safe autonomy in hybrid traffic: Detecting unpredictable abnormal behaviors of human drivers via information sharing,"J Wang, L Su, S Han, D Song, F Miao",2023,ACM Transactions on Cyber …,1
+Research on Safety Evaluation and Optimization of Children's General School Environment,Y Zeng,2023,Open Access Library Journal,0
+POSITIONING PERFORMANCE OF LOW-COST U-BLOX NEO-M8U MODULE IN URBAN ENVIRONMENT.,"M Kacmarik, D Fojtik",2023,MM Science Journal,2
+Off road autonomous vehicle modeling and repeatability using real world telemetry via simulation,"MP Spencer, JP Bos",2022,Autonomous Systems: Sensors …,2
+Trep: Transformer-based evidential prediction for pedestrian intention with uncertainty,"Z Zhang, R Tian, Z Ding",2023,Proceedings of the AAAI Conference on …,14
+Simulation Driven Development Process Utilizing Carla Simulator for Autonomous Vehicles.,"M Won, S Kim",2022,SIMULTECH,3
+Autonomous driving policy continual learning with one-shot disengagement case,"Z Cao, X Li, K Jiang, W Zhou, X Liu",2022,IEEE Transactions …,17
+"Omnidirectional Autonomous Robotic Platform for Advanced Driver Assistance Systems Testing—Movement, Localization and Navigation Possibilities","O Lufinka, J Kadeřábek, J Prstek, J Skála",2022,International Journal of …,1
+A Review on Simulation Platforms for Agent-Based Modeling in Electrified Transportation,"D Harris, FL Da Silva, W Su",2023,IEEE Transactions on …,1
+Simulating the impact of autonomous vehicles (AVs) on intersections traffic conditions using TRANSYT and PTV Vissim,"A Szarata, P Ostaszewski, H Mirzahossein",2023,Innovative Infrastructure …,3
+Potential risk assessment for safe driving of autonomous vehicles under occluded vision,"D Wang, W Fu, Q Song, J Zhou",2022,Scientific reports,24
+AutoNav: A Lane and Object Detection Model for Self-Driving Cars,"SS Madhumitha, R Sailesh, A Sirish",2022,… Methods and Data …,0
+"Study of driving behavior in Ilioupolis, Athens according to the environmental affordances theory","E Bakogiannis, C Kyriakidis",2021,European Journal of Formal Sciences and …,1
+End to End Pedestrian Features Detection for Self Driving Cars,"U Sri Krishna, S Keerthivasan, K Prudhvi",2023,… Conference on Smart …,0
+Clustering traffic scenarios using mental models as little as possible,"F Hauer, I Gerostathopoulos, T Schmidt",2020,2020 IEEE Intelligent …,49
+Advanced driver assistant systems focused on pedestrians' safety: a user experience approach,"M Šucha, R Risser, K Honzíčková",2021,Sustainability,8
+S3C: Spatial Semantic Scene Coverage for Autonomous Vehicles,"T Woodlief, F Toledo, S Elbaum",2024,Proceedings of the IEEE …,0
+Toward Large Scale Test for Autonomous Driving Software in Collaborative Virtual Environment,"BG Kim, E Kang",2023,Ieee Access,1
+Cyclist and pedestrian trust in automated vehicles: An on-road and simulator trial,"J Parkin, F Crawford, J Flower, C Alford",2023,… journal of sustainable …,17
+CU Driver-Outer UI for autonomous public transport,P Renström,2020,Diploma work,0
+Transformer based composite network for autonomous driving trajectory prediction on multi-lane highways,"O Sharma, NC Sahoo, NB Puhan",2024,Applied Intelligence,1
+FinnForest dataset: A forest landscape for visual SLAM,"I Ali, A Durmush, O Suominen, J Yli-Hietanen",2020,… and Autonomous …,34
+NOVEL METHODS IN TRAINING AUTONOMOUS VEHICLES FOR URBAN ROADS,R Vasquez,2020,NA,0
+My eyes speak: Improving perceived sociability of autonomous vehicles in shared spaces through emotional robotic eyes,"Y Wang, S Wijenayake, M Hoggenmüller",2023,Proceedings of the …,2
+Use of social interaction and intention to improve motion prediction within automated vehicle framework: A review,"DE Benrachou, S Glaser, M Elhenawy",2022,IEEE Transactions …,11
+Real-time people re-identification and tracking for autonomous platforms using a trajectory prediction-based approach,"AȘ Ghiță, AM Florea",2022,Sensors,5
+Autonomous vehicles and street design: Exploring the role of medians in enhancing pedestrian street crossing safety using a virtual reality experiment,"Y Joo, SN Kim, BC Kim, GH Cho, J Kim",2023,Accident Analysis & Prevention,3
+Navigating an automated driving vehicle via the early fusion of multi-modality,"M Haris, A Glowacz",2022,Sensors,20
+Vehicle scheduling for on-demand vehicle fleets in macroscopic travel demand models,"J Hartleb, M Friedrich, E Richter",2022,Transportation,16
+Emotional interaction design for driverless food truck under campus scenarios,"M Yan, J Wang, W Wang",2020,Advances in Industrial Design: Proceedings of …,2
+Cyber-security oriented co-simulation platform for connected and autonomous driving,"A Abdo, G Wu, N Abu-Ghazaleh",2022,NA,1
+Enhancing Pedestrian Safety in Autonomous Vehicles through Machine Learning,"SR Kothuri, V Nivedita, P Padmaloshani",2023,2023 International …,1
+Selected aspects of the road infrastructure in relation to vehicle automation,"A Barsos, C Koren, E Makó, D Miletics, R Nagy",2020,NA,1
+Learning configurations of operating environment of autonomous vehicles to maximize their collisions,"C Lu, Y Shi, H Zhang, M Zhang, T Wang",2022,IEEE Transactions …,37
+How well can driverless vehicles hear? an introduction to auditory perception for autonomous and smart vehicles,"L Marchegiani, X Fafoutis",2021,IEEE Intelligent Transportation …,9
+Designing Interactions With Shared AVs in Complex Urban Mobility Scenarios,"M Hoggenmueller, M Tomitsch",2022,Frontiers in Computer …,7
+Spatial-temporal graph neural network for interaction-aware vehicle trajectory prediction,"J Chen, Y Wang, R Wu",2021,2021 IEEE 17th …,9
+Characteristics of dangerous scenarios between vehicles turning right and pedestrians under left-hand traffic,"Y Matsui, S Oikawa",2023,Applied Sciences,3
+Interaction-aware decision-making for automated vehicles using social value orientation,"L Crosato, HPH Shum, ESL Ho",2022,IEEE Transactions on …,40
+A review of tracking and trajectory prediction methods for autonomous driving,"F Leon, M Gavrilescu",2021,Mathematics,132
+Synchronous roundabouts with rotating priority sectors (SYROPS): High capacity and safety for conventional and autonomous vehicles,"G Ibanez, T Meuser, MA Lopez-Carmona",2020,Electronics,8
+Factors affecting pedestrians' trust in automated vehicles: Literature review and theoretical model,"S Zhou, X Sun, B Liu, G Burnett",2021,IEEE Transactions on Human …,19
+Multi-vehicle trajectory prediction and control at intersections using state and intention information,"D Zhu, Q Khan, D Cremers",2024,Neurocomputing,0
+Learning data-driven decision-making policies in multi-agent environments for autonomous systems,"J Hook, S El-Sedky, V De Silva, A Kondoz",2021,Cognitive Systems Research,19
+"How should autonomous vehicles drive? Policy, methodological, and social considerations for designing a driver","AY Bin-Nun, P Derler, N Mehdipour",2022,Humanities and social …,13
+Road Image Segmentation for Autonomous Car,"B Bhatia, P Modi",2023,NA,0
+Exception Model for Brake Light Detection for Autonomous Vehicles,"SD Jagtap, SS Kanade",2022,2022 2nd International Conference on …,2
+DGInet: Dynamic graph and interaction-aware convolutional network for vehicle trajectory prediction,"J An, W Liu, Q Liu, L Guo, P Ren, T Li",2022,Neural Networks,26
+Digital Twin Test Method With LTE-V2X for Autonomous Vehicle Safety Test,"J Duan, Z Wang, X Jing",2024,IEEE Internet of Things Journal,0
+The planning process of transport tasks for autonomous vans—Case study,"J Caban, A Nieoczym, A Dudziak, T Krajka",2022,Applied Sciences,13
+"Applications, databases and open computer vision research from drone videos and images: a survey","Y Akbari, N Almaadeed, S Al-Maadeed",2021,Artificial Intelligence …,79
+Vehicle distance and speed estimation algorithm for computer vision sensor system,"M Gorobetz, J Timofejevs",2021,2021 IEEE 62nd …,4
+Effective Techniques for Pedestrian Detection in Smart Autonomous Vehicles,"S Thylashri, N Manikandaprabu, T Jayakumar",2021,Technology,0
+Vulnerable road users and the coming wave of automated vehicles: Expert perspectives,"W Tabone, J De Winter, C Ackermann",2021,Transportation research …,149
+A survey on graph neural networks in intelligent transportation systems,"H Li, Y Zhao, Z Mao, Y Qin, Z Xiao, J Feng, Y Gu",2024,arXiv preprint arXiv …,7
+Vehicle sideslip trajectory prediction based on time-series analysis and multi-physical model fusion,"L Cao, Y Luo, Y Wang, J Chen",2023,Journal of Intelligent and …,4
+GarchingSim: An Autonomous Driving Simulator with Photorealistic Scenes and Minimalist Workflow,"L Zhou, Y Song, Y Gao, Z Yu",2023,2023 IEEE 26th …,1
+Improve traffic organization in the passenger gravitation zone,"R Bakhrom, L Lan",2021,… on Wavelet Active Media Technology and …,2
+Spatio-temporal graph dual-attention network for multi-agent prediction and tracking,"J Li, H Ma, Z Zhang, J Li",2021,IEEE Transactions on …,73
+Parking prediction in smart cities: A survey,"X Xiao, Z Peng, Y Lin, Z Jin, W Shao",2023,IEEE Transactions …,8
+A study on passengers' alighting and boarding process at metro platform by computer simulation,"Z Li, SM Lo, J Ma, XW Luo",2020,Transportation Research Part A: Policy and …,30
+"Mode choice analysis of first-mile shared autonomous vehicles service in Bangkok, Thailand","A Karoonsoontawong, AT Win",2023,Proceedings of the …,0
+Verification and Validation Utilizing Carla Simulator for Autonomous Driving Development,"M Won, S Kim",2022,International Conference on Simulation and Modeling …,0
+Autonomous shuttle operating on highways and gravel roads in rural America: A demonstration study,"J Mason, C Carney, J Gaspar",2022,Geriatrics,5
+A fail-safe architecture for automated driving,"S Vom Dorff, B Böddeker, M Kneissl",2020,"… Design, Automation & …",16
+Inaction: Interpretable action decision making for autonomous driving,"T Jing, H Xia, R Tian, H Ding, X Luo, J Domeyer",2022,… on Computer Vision,21
+Resource Optimization for Task Offloading With Real-Time Location Prediction in Pedestrian-Vehicle Interaction Scenarios,"D Zheng, L Wang, C Kai, M Peng",2023,IEEE Transactions on …,1
+The interacting multiple model smooth variable structure filter for trajectory prediction,"S Akhtar, S Habibi",2023,IEEE Transactions on Intelligent …,11
+Trajectory prediction network of autonomous vehicles with fusion of historical interactive features,"Z Zuo, X Wang, S Guo, Z Liu, Z Li",2023,IEEE Transactions on …,10
+A review of vehicle-to-vulnerable road user collisions on limited-access highways to support the development of automated vehicle safety assessments,"H Muslim, J Antona-Makoshi",2022,Safety,6
+Active road user interactions with autonomous vehicles: proactive safety assessment,"AR Alozi, M Hussein",2023,Transportation research record,6
+Pedestrian Movement Prediction Based on Camera Vision and Deep Learning Model,"AM Herrero, C Pérez-Benito, DP Salido",2023,2023 IEEE 26th …,0
+Moment-based model predictive control of autonomous systems,"HQ Bao, Q Kang, XD Shi, MC Zhou",2023,IEEE Transactions …,12
+Smart Crosswalk Management with Vehicle-to-Pedestrian Communication,"S Srinivasan, R Raman, CB Thacker",2023,2023 International …,13
+Low latency trajectory predictions for interaction aware highway driving,"C Anderson, R Vasudevan",2020,IEEE Robotics and …,3
+Developing robust autonomous vehicles with ROS,"DJ Kangas, M Salem, K Li, T Ryynanen",2024,Autonomous …,0
+Automated 3d object reference generation for the evaluation of autonomous vehicle perception,"R Philipp, Z Zhu, J Fuchs, L Hartjen",2021,… on System Reliability …,6
+Exiting the simulation: The road to robust and resilient autonomous vehicles at scale,R Chakra,2022,arXiv preprint arXiv:2210.10876,2
+Divergent Paths: An Analysis of the Autonomous Future in McLean County,C Peterson,2020,NA,0
+Demystifying Artificial Intelligence based Behavior Prediction of Traffic Actors for Autonomous Vehicle-A Bibliometric Analysis of Trends and Techniques,"SS Kolekar, SS Gite, B Pradhan",2021,Library Philosophy and …,2
+Implementation of Autonomous Dimming Based on Iot for Preventing Accidents,"R Kiruthikaa, BM Kumar, S Gopinath",2023,2023 International …,0
+Optimization-based intersection control for connected automated vehicles and pedestrians,"T Niels, K Bogenberger",2024,Transportation …,3
+Multistep ahead prediction of vehicle lateral dynamics based on echo state model,"C Teng, Y Cai, X Sun, X Sun, H Wang",2022,IEEE Sensors …,3
+A Research Platform for Autonomous Vehicles Technologies Research in the Insurance Sector,"MÁ Miguel Paraiso, FM Moreno Olivo, P Marín Plaza",2020,NA,0
+Driver intention prediction at roundabouts,"V Raimundo, M Favio",2021,2021 XIX Workshop on Information …,1
+Control of autonomous UAV using an onboard LSTM neural network,B Karakostas,2023,Journal of Ubiquitous Systems & Pervasive Networks,1
+An Inclusive Design Approach to Integrating an External Human Machine Interface with Autonomous Vehicles,S Roksic,2021,NA,0
+Hybrid cooperative intersection management for connected automated vehicles and pedestrians,"P Cai, J He, Y Li",2023,Journal of Intelligent and Connected …,4
+Time-to-approach-based model predictive controller for autonomous vehicle safety during unexpected wheelchairs on the path,"M Islam, M Chowdhury, M Rahman",2023,Cyber-Physical …,0
+Walking in the era of autonomous vehicles,"S Pettigrew, L Booth, V Farrar, B Godic, J Brown, C Karl",2022,Sustainability,5
+Situation-aware left-turning connected and automated vehicle operation at signalized intersections,"SM Khan, M Chowdhury",2021,IEEE Internet of Things Journal,11
+iDriving: Toward safe and efficient infrastructure-directed autonomous driving,"F Ahmad, C Shin, W Pang, J Cashman, B Leong",2022,arXiv preprint arXiv …,1
+V2V-based Collision-avoidance Decision Strategy for Autonomous Vehicles Interacting with Fully Occluded Pedestrians at Midblock on Multilane Roadways,"F Zou, HW Deng, TU Iunn, JH Ogle",2023,… on Transportation and …,2
+Exploring diversity-based active learning for 3d object detection in autonomous driving,"Z Liang, X Xu, S Deng, L Cai, T Jiang, K Jia",2022,arXiv preprint arXiv …,14
+Proposal of an autonomous vehicle control architecture,"CR Pozna, C Antonya",2021,2021 IEEE 25th International …,2
+Effect of external HMI for automated vehicles (AVs) on drivers' ability to infer the AV motion intention: A field experiment,"V Papakostopoulos, D Nathanael, E Portouli",2021,… research part F: traffic …,21
+Safety challenges for autonomous vehicles in the absence of connectivity,"A Shetty, M Yu, A Kurzhanskiy, O Grembek",2021,… research part C …,67
+An Evaluation of External Human-Machine Interfaces and Compliance with Federal Motor Vehicle Safety Standard 108,"S Marulanda, N Britten, CC Chang, J Shutko",2023,NA,1
+On Preference Modeling Techniques to Analyze Autonomous Vehicle Adoption and Use,GS Nair,2020,NA,0
+Investigation of Autonomous/Connected Vehicles in Work Zones,SWZD Initiative,2021,NA,0
+Applications of Computer Vision for the Improvement of Autonomous Vehicle Design,C Kauten,2021,NA,0
+A Predictive-Prescriptive Safety Framework at Intersections in a Connected Vehicle Environment,E Zhang,2022,NA,0
+Generation of modular and measurable validation scenarios for autonomous vehicles using accident data,"Q Goss, Y AlRashidi, Mİ Akbaş",2021,2021 IEEE Intelligent Vehicles …,20
+Spatiotemporal learning of multivehicle interaction patterns in lane-change scenarios,"C Zhang, J Zhu, W Wang, J Xi",2021,IEEE Transactions on Intelligent …,45
+"Interaction of automated driving systems with pedestrians: Challenges, current solutions, and recommendations for eHMIs","R Ezzati Amini, C Katrakazas, A Riener",2021,Transport …,31
+… the Efficacy of Real-Time Connected Vehicle Basic Safety Messages in Mitigating Aberrant Driving Behaviour and Risk of Vehicle Crashes: Preliminary Insights from …,"N Zhong, MK Gupta, O Kochan",2024,Elektronika ir …,1
+Urban Autonomous Driving of Emergency Vehicles with Reinforcement Learning,"Z Tong, A Ayala, EB Sandoval",2023,2023 IEEE Latin American …,0
+Logistic autonomous vehicles assessment using decision support model under spherical fuzzy set integrated Choquet Integral approach,"SR Bonab, SJ Ghoushchi, M Deveci",2023,Expert Systems with …,49
+"Towards comprehensive understanding of pedestrians for autonomous driving: Efficient multi-task-learning-based pedestrian detection, tracking and attribute …","Y Zhou, X Zeng",2024,Robotics and Autonomous Systems,1
+Artificial intelligence and software modeling approaches in autonomous vehicles for safety management: A systematic review,"S Abbasi, AM Rahmani",2023,Information,7
+Digital Transformation of the Transport Sector Towards Smart and Sustainable Mobility,"M Dimian, E Zadobrischi, A Căilean, C Beguni",2024,"… : Technology, Tools, and …",0
+How to build a graph-based deep learning architecture in traffic domain: A survey,"J Ye, J Zhao, K Ye, C Xu",2020,IEEE Transactions on Intelligent …,225
+"Autonomous driving strategies at intersections: Scenarios, state-of-the-art, and future outlooks","L Wei, Z Li, J Gong, C Gong, J Li",2021,2021 IEEE International …,51
+Pre-instruction for Pedestrians Interacting Autonomous Vehicles with an eHMI: Effects on Their Psychology and Walking Behavior,"H Liu, T Hirayama",2023,arXiv preprint arXiv:2303.08380,1
+A review on intention-aware and interaction-aware trajectory prediction for autonomous vehicles,"I Gomes, D Wolf",2023,Authorea Preprints,9
+Integrated graphical representation of highway scenarios to improve trajectory prediction of surrounding vehicles,"L Hou, SE Li, B Yang, Z Wang",2022,IEEE Transactions on …,10
+Deep learning for vision-based prediction: A survey,A Rasouli,2020,arXiv preprint arXiv:2007.00095,52
+Deer in the headlights: FIR-based Future Trajectory Prediction in Nighttime Autonomous Driving,"A Rahimpour, N Fallahinia",2023,2023 IEEE Intelligent …,0
+Collaborative Decision-Making Using Spatiotemporal Graphs in Connected Autonomy,"P Gao, Y Shen, MC Lin",2023,arXiv preprint arXiv:2310.20491,0
+"Use of smartphones for ensuring vulnerable road user safety through path prediction and early warning: An in-depth review of capabilities, limitations and their …","I Vourgidis, L Maglaras, AS Alfakeeh, AH Al-Bayatti",2020,Sensors,29
+Augmented reality interfaces for pedestrian-vehicle interactions: An online study,"W Tabone, R Happee, J García, YM Lee",2022,Unpublished …,5
+Someone to watch over you: using Bluetooth beacons for alerting distracted pedestrians,"R Hasan, MA Hoque, Y Karim, R Griffin",2022,IEEE internet of …,4
+Pedestrian traffic light control with crosswalk FMCW radar and group tracking algorithm,"P Nimac, A Krpič, B Batagelj, A Gams",2022,Sensors,5
+Pushing ROS towards the dark side: a ROS-based Co-simulation architecture for mixed-reality test systems for autonomous vehicles,"MR Zofka, L Töttel, M Zipfl, M Heinrich",2020,… and Integration for …,16
+A Collision Avoidance Strategy Based on Entropy-Increasing Risk Perception in a Vehicle–Pedestrian-Integrated Reaction Space,"Y Ding, W Zhang, X Wu, J Xu, J Gong",2024,World Electric Vehicle Journal,0
+AI-powered in-vehicle passenger monitoring using low-cost mm-wave radar,"H Abedi, S Luo, V Mazumdar, MMYR Riad",2021,IEEE …,31
+A systematic survey on big data and artificial intelligence algorithms for intelligent transportation system,"S Abirami, M Pethuraj, M Uthayakumar",2024,Case Studies on Transport …,0
+ADD: An automatic desensitization fisheye dataset for autonomous driving,"Z Wu, X Chen, H Wei, F Song, T Xu",2023,Engineering Applications of Artificial …,3
+Development of Complex Scenarios and Control Algorithms for Autonomous Driving Functions (ADFs) in a Driving Simulator,M Batmaz,2024,NA,0
+Vehicle automation–other road user communication and coordination: Theory and mechanisms,"JE Domeyer, JD Lee, H Toyoda",2020,IEEE Access,57
+Looking ahead: Anticipating pedestrians crossing with future frames prediction,"M Chaabane, A Trabelsi",2020,Proceedings of the …,59
+Realization of Safe Autonomous Driving using Randomized Model Predictive Control,A Muraleedharan,2023,NA,0
+A comprehensive review on autonomous navigation,"S Nahavandi, R Alizadehsani, D Nahavandi",2022,arXiv preprint arXiv …,15
+Integration of wearables and wireless technologies to improve the interaction between disabled vulnerable road users and self-driving cars,"A Guerrero-Ibañez, I Amezcua-Valdovinos",2023,Electronics,3
+A Social Approach for Autonomous Vehicles: A Robotic Object to Enhance Passengers' Sense of Safety and Trust,"S Chakravarthi, T Bechor, H Erel",2024,NA,0
+Discovering the Design Challenges of Autonomous Vehicles through Exploring Scenarios via an Immersive Design Workshop,"J Lee, W Park, S Lee",2021,Proceedings of the 2021 ACM Designing …,4
+CO2 Emissions Induced by Vehicles Cruising for Empty Parking Spaces in an Open Parking Lot,"V Paidi, J Håkansson, H Fleyeh, RG Nyberg",2022,Sustainability,19
+Recent trends in pedestrian detection for robotic vision using deep learning techniques,"S Mishra, S Jabin",2021,Artificial intelligence for future generation robotics,12
+Intelligent Transportation,"RST Lee, RST Lee",2020,Artificial Intelligence in Daily Life,1
+"Human factors, artificial intelligence and autonomous cars: Perspectives for a complex implementation","SB Pereira, RD Botelho",2021,NA,1
+Performance evaluation of VANET routing protocols in Madinah city,"MAR Abdeen, A Beg, SM Mostafa, AA AbdulGhaffar",2022,Electronics,24
+"Unfreezing autonomous vehicles with game theory, proxemics, and trust","F Camara, C Fox",2022,Frontiers in Computer Science,1
+Directional primitives for uncertainty-aware motion estimation in urban environments,"R Senanayake, M Toyungyernsub",2020,2020 IEEE 23rd …,5
+Vehicle Maneuver Prediction using Deep Learning Networks,S Wang,2023,NA,0
+Raspberry Pi and Arduino Based Autonomous Car,"L UJWAL, KS Nandini",2020,IJRDO-Journal of Electrical And Electronics …,0
+Impact of ground truth annotation quality on performance of semantic image segmentation of traffic conditions,"V Taran, Y Gordienko, A Rokovyi, O Alienin",2020,Advances in Computer …,21
+"Towards autonomous driving in dense, heterogeneous, and unstructured traffic",R Chandra,2022,NA,8
+Federated learning for connected and automated vehicles: A survey of existing approaches and challenges,"VP Chellapandi, L Yuan, CG Brinton",2023,IEEE Transactions …,21
+Vehicle Trajectory Prediction by Knowledge‐Driven LSTM Network in Urban Environments,"S Wang, P Zhao, B Yu, W Huang",2020,Journal of Advanced …,23
+Supervision of a self-driving vehicle unmasks latent sleepiness relative to manually controlled driving,"EE Flynn-Evans, LR Wong, Y Kuriyagawa, N Gowda",2021,Scientific reports,10
+Learning to interpret novel eHMI: The effect of vehicle kinematics and eHMI familiarity on pedestrian'crossing behavior,"YM Lee, R Madigan, C Uzondu, J Garcia",2022,Journal of safety …,78
+A Literature Review of Current Practices to Evaluate the Usability of External Human Machine Interface,"Y Zheng, K Wu, R Shi, X Zhu, J Zhang",2023,International Conference on …,0
+REDUCTION IN ENTRY CAPACITY OF ROUNDABOUT UNDER THE INFLUENCE OF PEDESTRIANS IN MIXED TRAFFIC CONDITIONS.,"C Bari, A Dhamaniya",2022,Komunikácie,0
+Modeling Interactions of Autonomous/Manual Vehicles and Pedestrians with a Multi-Agent Deep Deterministic Policy Gradient,"W Hu, H Mu, Y Chen, Y Liu, X Li",2023,Sustainability,0
+Pedestrian crash risk analysis using extreme value models: new insights and evidence,"A Ankunda, Y Ali, M Mohanty",2024,Accident Analysis & Prevention,1
+Robotic Vehicles: Systems and Technology,TS Ng,2021,NA,3
+Trajectory prediction neural network and model interpretation based on temporal pattern attention,"H Hu, Q Wang, M Cheng, Z Gao",2022,IEEE Transactions on …,7
+A multi-modal vehicle trajectory prediction framework via conditional diffusion model: A coarse-to-fine approach,"Z Li, H Liang, H Wang, X Zheng, J Wang",2023,Knowledge-Based …,5
+Designing accountable systems,"S Kacianka, A Pretschner",2021,Proceedings of the 2021 ACM conference on …,29
+QoI-oriented incentive mechanisms for vehicle-based visual crowdsourcing,R Pires Orozco,2021,NA,0
+Summarizing vehicle driving decision-making methods on vulnerable road user collision avoidance,"Q Yuan, Y Gao, J Zhu, H Xiong, Q Xu",2023,Digital Transportation …,0
+Autonomous vehicles and vulnerable road-users—important considerations and requirements based on crash data from two countries,"AP Morris, N Haworth, A Filtness, DPA Nguatem",2021,Behavioral …,15
+A Review of Decision-Making and Planning for Autonomous Vehicles in Intersection Environments,"S Chen, X Hu, J Zhao, R Wang, M Qiao",2024,World Electric Vehicle Journal,2
+Calibration of trust in autonomous vehicle,"SC Lee, YG Ji",2022,Human-Automation Interaction: Transportation,2
+Study of overtaking method of intelligent vehicle under vehicle road coordination,"Y Wang, K Yin",2021,Journal of Physics: Conference Series,4
+Intelligent Traffic Light System using Deep Reinforcement Learning,"R Yauri, F Silva, A Huaccho, O Llerena",2023,WSEAS Transactions on …,0
+Cooperative Infrastructure Perception,"F Ahmad, C Shin, W Pang, J Cashman",2024,Proceedings of the …,1
+"Unravelling the last-mile conundrum: A comparative study of autonomous delivery robots, delivery bicycles, and light commercial vehicles in 14 varied European …","A Garus, P Christidis, A Mourtzouchou, L Duboz",2024,Sustainable Cities and …,0
+Self-Driving Cars-The Future Is Already in Texas but the Laws Are Not: An Analysis of Potential Changes to Statutory and Common Laws with Integration of …,LMN Contreras,2020,Hous. Bus. & Tax LJ,0
+Computer vision applications in intelligent transportation systems: a survey,"E Dilek, M Dener",2023,Sensors,28
+Blockage effects of road bridge on mmwave channels for intelligent autonomous vehicles,"D Yan, K Guan, D He, J Kim, H Chung",2023,IEEE Transactions …,8
+Advance generalization technique through 3D CNN to overcome the false positives pedestrian in autonomous vehicles,"S Iftikhar, M Asim, Z Zhang, AAA El-Latif",2022,Telecommunication Systems,15
+Vulnerable Road User Detection and Safety Enhancement: A Comprehensive Survey,"RM Silva, GF Azevedo, MVV Berto, JR Rocha",2024,arXiv preprint arXiv …,0
+Drivers' Attitudes and Perceptions towards A Driving Automation System with Augmented Reality Human-Machine Interfaces,"X Wu, C Merenda, T Misu, K Tanous",2020,2020 IEEE Intelligent …,17
+""" What's That Robot Doing Here?"": Perceptions Of Incidental Encounters With Autonomous Quadruped Robots","E Hauser, YC Chan, P Chonkar, G Hemkumar",2023,… Autonomous Systems,8
+Human awareness versus Autonomous Vehicles view: comparison of reaction times during emergencies,"A Rydzewski, P Czarnul",2021,2021 IEEE Intelligent Vehicles …,4
+HiVeGPT: Human-machine-augmented intelligent vehicles with generative pre-trained transformer,"J Zhang, J Pu, J Xue, M Yang, X Xu",2023,IEEE Transactions …,48
+Mobile Safety Application for Pedestrians,"SY Gelbal, MR Cantas, BA Guvenc, L Guvenc",2023,arXiv preprint arXiv …,1
+"Simulation Platforms for Autonomous Driving and Smart Mobility: Simulation Platforms, Concepts, Software, APIs","L Creutz, S Kopp, J Schneider, M Dziubany",2021,Smart …,1
+Reinforcement Learning-based Autonomous Parking with Expert Demonstrations,"Y Wu, L Wang, X Lu, Y Wu",2023,2023 7th CAA …,0
+"Impact of the COVID-19 pandemic on daily travel: Findings from New South Wales, Australia","B Du, C Zhang, T Qu, Q Wang, QS Zhou, T Cui",2024,Travel Behaviour and …,1
+Analysis of pedestrian stress level using GSR sensor in virtual immersive reality,"M Mudassar, A Kalatian, B Farooq",2021,arXiv preprint arXiv:2111.11492,12
+A multi-task learning network with a collision-aware graph transformer for traffic-agents trajectory prediction,"B Yang, F Fan, R Ni, H Wang",2024,IEEE Transactions …,4
+A technical review on driverless vehicle technologies in smart cities,"Y Zhu, R Jiang, Q Ni",2022,Big Data Privacy and Security in Smart Cities,1
+Digital twins based VR simulation for accident prevention of intelligent vehicle,"Z Lv, J Guo, AK Singh, H Lv",2022,IEEE Transactions on Vehicular …,17
+"Instruction or intention? Investigating eHMIs' intuitiveness as allocentric or egocentric messages for different light animations, road priorities and vehicle behaviours","E Fratini, R Welsh, P Thomas",2021,NA,3
+Using latent class clustering and binary logistic regression to model Australian cyclist injury severity in motor vehicle–bicycle crashes,"SA Samerei, K Aghabayk, N Shiwakoti",2021,Journal of safety …,38
+A study on testing autonomous driving systems,"X Zhang, Y Cai, Z Yang",2020,2020 IEEE 20th International …,6
+Design of IoT-Based Device-to-Vehicle Communication Message Data Sets for Wireless Information Provision in Autonomous Highway Environment,"Y Cho, J Kim, JT Kim",2021,Journal of Korean Society of Transportation,2
+External human–machine interfaces: Gimmick or necessity?,"J de Winter, D Dodou",2022,Transportation research interdisciplinary …,39
+A survey on socially aware robot navigation: Taxonomy and future challenges,"PT Singamaneni, P Bachiller-Burgos",2024,… Journal of Robotics …,7
+Kernelized convolutional transformer network based driver behavior estimation for conflict resolution at unsignalized roundabout,"O Sharma, NC Sahoo, NB Puhan",2023,ISA transactions,13
+A review of safety test methods for new car assessment program in Southeast Asian countries,"SNA Halimi, ST Rasmana, D Adiputra, WJ Yahya",2023,Open …,0
+Autonomous Vehicles Using OpenCV and Python With Wireless Charging,"N Raghu, VN Trupti, C Badachi",2023,… in Electric Vehicle …,0
+Autonomous Driving Vision Accuracy Modeling with Neural Networks,"J Zhou, J Liu",2024,2024 International Conference on Inventive …,0
+The future urban road: A systematic literature review-enhanced Q-method study with experts,"S Tsigdinos, PG Tzouras, E Bakogiannis",2022,… Research Part D …,47
+Demands of Autonomous Vehicles on Urban Infrastructure: A Study of required transformations and global adaptability to AVs,"A Waqas, E Shishore",2021,NA,0
+5g-enabled v2x communications for vulnerable road users safety applications: a review,"C Zoghlami, R Kacimi, R Dhaou",2023,Wireless Networks,26
+Joint prediction of next location and travel time from urban vehicle trajectories using long short-term memory neural networks,"J Sun, J Kim",2021,Transportation Research Part C: Emerging …,65
+Efficient gemm implementation for vision-based object detection in autonomous driving applications,"FZ Guerrouj, S Rodríguez Flórez, M Abouzahir",2023,Journal of Low Power …,1
+"IntPred: Flexible, fast, and accurate object detection for autonomous driving systems","H Tabani, M Fusi, L Kosmidis, J Abella",2020,Proceedings of the 35th …,5
+Passenger opinions of the perceived safety and interaction with automated shuttles: A test ride study with 'hidden'safety steward,"S Nordhoff, J Stapel, B van Arem, R Happee",2020,Transportation research part …,62
+GIVA: Interaction-aware trajectory prediction based on GRU-Improved VGG-Attention Mechanism model for autonomous vehicles,"Z Meng, R He, J Wu, S Zhang",2023,Proceedings of the …,0
+IoT technologies for connected and automated driving applications,"O Vermesan, R Bahr, M Falcitelli, D Brevi",2022,Internet of Things …,15
+"The Why, When, and How to Use Active Learning in Large-Data-Driven 3D Object Detection for Safe Autonomous Driving: An Empirical Exploration","R Greer, B Antoniussen, MV Andersen",2024,arXiv preprint arXiv …,5
+Designing airspace for urban air mobility: A review of concepts and approaches,"A Bauranov, J Rakas",2021,Progress in Aerospace Sciences,253
+Sequential semantic segmentation of road profiles for path and speed planning,"G Cheng, JY Zheng",2022,IEEE Transactions on Intelligent …,6
+A review of research on traffic conflicts based on intelligent vehicles,"L Hu, J Ou, J Huang, Y Chen, D Cao",2020,Ieee Access,88
+GeFL: Gradient Encryption-Aided Privacy Preserved Federated Learning for Autonomous Vehicles,"R Parekh, N Patel, R Gupta, NK Jadav, S Tanwar",2023,IEEE …,16
+Path Tracking and Obstacle Avoidance Control Using Deep Reinforcement Learning for Autonomous Vehicles,"F Shafique, T Naeem",2023,2023 17th International …,0
+Prediction of Social Dynamic Agents and Long-Tailed Learning Challenges: A Survey,"D Thuremella, L Kunze",2023,Journal of Artificial Intelligence Research,0
+Enhanced Scene Understanding and Situation Awareness for Autonomous Vehicles Based on Semantic Segmentation,"Y Zhao, L Wang, X Yun, C Chai, Z Liu",2024,"… on Systems, Man …",0
+Vehicle automation software development using software-only simulation,A Ruusiala,2022,NA,1
+Intelligent traffic light system using deep reinforcement learning,"R Yauri Rodríguez, F Silva, A Huaccho, O Llerena",2023,NA,0
+Autonorama: the illusory promise of high-tech driving,P Norton,2021,NA,22
+Impacts of highly automated vehicles on travel demand: macroscopic modeling methods and some results,"J Sonnleitner, M Friedrich, E Richter",2022,Transportation,19
+Outdoor Traffic Scene Risk Estimation in the Context of Autonomous Driving,"RD Brehar, RO Băbuţ, A Fuzes",2022,2022 IEEE 18th …,0
+Formalizing Human Machine Communication in the Context of Autonomous Vehicles,"S Gopalswamy, S Saripalli, D Shell, JS Hickman",2020,NA,0
+Visual Perception System for Autonomous Driving,"Q Zhang, S Gou, W Li",2023,arXiv preprint arXiv:2303.02257,0
+"Relating emotions, psychophysiological indicators and context in public transport trips: Case study and a joint framework for data collection and analysis","C Barría, CA Guevara, A Jimenez-Molina",2023,… Research Part F: Traffic …,6
+Traffic object detection and recognition based on the attentional visual field of drivers,"M Shirpour, N Khairdoost, MA Bauer",2021,IEEE Transactions …,30
+EXPLORING THE USE OF ARTIFICIAL INTELLIGENCE TO SOLVE TRAFFIC CONGESTION,J Hu,2020,European journal of economics and management …,1
+"Using Safety Performance Models, Autonomous Vehicle Data, and Machine Learning to Develop Contextual Complexity Criteria to Establish a Standardized Process …",V Bendigeri,2022,NA,1
+A comprehensive study on the impact of artificial intelligence in autonomous vehicles,"A Balasundaram, MR Prusty",2022,2022 International Virtual …,1
+A V2P Warning System on the Basis of LoRa Wireless Network,"R Pan, L Jie, H Wang, P Jie",2023,2023 5th International …,0
+… of COVID-19 on the transport sector and measures as well as recommendations of policies and future research: Analyses based on a world-wide expert survey,"J Zhang, Y Hayashi",2020,Available at SSRN,34
+Federated Semi-Supervised Learning for Object Detection in Autonomous Driving,"F Chi, Y Wang, P Nasiopoulos",2023,ICASSP 2023-2023 …,2
+Vehicle to everything (v2x) communication protocol by using vehicular ad-hoc network,"MA Naeem, X Jia, MA Saleem, W Akbar",2020,… on Wavelet Active …,6
+Scenario Generation and Simulation for Autonomous Software Validation,P Cao,2023,NA,0
+Review of Artificial Intelligence-Integrated Blockchain for Training Autonomous Vehicles,"A Kumar, N Sharma",2023,2023 International Conference on …,0
+"Factores humanos, inteligencia artificial y autos autónomos: Perspectivas para una implementación compleja","SB Pereira, RD Botelho",2021,Revista de Ciencia y Tecnología,0
+Dynamic road management in the era of cav,"M Younis, S Lee, W Lalouani, D Tan",2020,… and Autonomous …,6
+Study the effect of communication delay for perception and collision avoidance in cooperative autonomous driving,"P Ghorai, A Eskandarian",2020,ASME …,3
+Traffic light timer adjustment system using threshold edge detection for image processing: A software engineering approach,F Kedwan,2023,International Journal of Current Research in …,3
+Object Tracking Using Computer Vision: A Review,"P Kadam, G Fang, JJ Zou",2024,Computers,0
+Interaction between pedestrians and autonomous vehicles: protocol analysis and preliminary results,"R Almeida, E Sousa, D Machado, E Freitas",2023,Transportation research …,0
+How Far Ahead Should Autonomous Vehicles Start Resolving Predicted Conflicts? Exploring Uncertainty-Based Safety-Efficiency Trade-Off,"G Li, Z Li, VL Knoop",2024,IEEE Transactions on …,0
+"Ghost on the Windshield: Employing a Virtual Human Character to Communicate Pedestrian Acknowledgement and Vehicle Intention. Information 2022, 13, 420","A Rouchitsas, H Alm",2022,NA,1
+Determination of braking diagrams for vehicles of different body types,"D Beșliu, P Vrabie, D Trușcă, T Ioniță, A Radu",2023,NA,0
+Trust and distrust of automated parking in a Tesla Model X,"NL Tenhundfeld, EJ de Visser, AJ Ries",2020,Human …,81
+Aware and Intelligent Infrastructure for Action Intention Recognition of Cars and Bicycles.,C Englund,2020,VEHITS,3
+Exploration of an integrated automated public transportation system,"S Sun, YD Wong, X Liu, A Rau",2020,Transportation Research Interdisciplinary …,11
+SLAM–DATMO Method for an Autonomous Vehicles,V Vasudevan,2021,NA,0
+"V2X-Equipped Smart Intersections− Survey of Surveys, Use Cases, and Deployments","H Hejazi, L Bokor",2023,Journal of Communications,2
+Developing and testing robust autonomy: The university of sydney campus data set,"W Zhou, JS Berrio, C De Alvis, M Shan",2020,IEEE Intelligent …,24
+Intelligent transportation systems (ITS): A systematic review using a Natural Language Processing (NLP) approach,TD Putri,2021,Heliyon,26
+Parking Facility Location and User Pricing in the Era of Autonomous Vehicle Operations,MT Tabesh,2020,NA,2
+A field study on pedestrians' thoughts toward a car with gazing eyes,"X Gui, K Toda, SH Seo, FM Eckert, CM Chang",2023,Extended Abstracts of …,2
+Rise: A velocity control framework with minimal impacts based on reinforcement learning,"Y Xia, S Liu, X Chen, Z Xu, K Zheng, H Su",2022,Proceedings of the 31st ACM …,5
+Road object detection: A comparative study of deep learning-based algorithms,"M Haris, A Glowacz",2021,Electronics,67
+Adopting Aviation Safety Knowledge into the Discussions of Safe Implementation of Connected and Autonomous Road Vehicles,"UZA Hamid, M Mehndiratta, E Adali",2021,NA,0
+FIR-based Future Trajectory Prediction in Nighttime Autonomous Driving,"A Rahimpour, N Fallahinia, D Upadhyay",2023,arXiv preprint arXiv …,0
+Characterization and mitigation of insufficiencies in automated driving systems,"Y Fu, J Seemann, C Hanselaar, T Beurskens",2024,arXiv preprint arXiv …,2
+Smart: A decision-making framework with multi-modality fusion for autonomous driving based on reinforcement learning,"Y Xia, S Liu, R Hu, Q Yu, X Feng, K Zheng",2023,… Conference on Database …,1
+"Testing autonomous vehicles and AI: perspectives and challenges from cybersecurity, transparency, robustness and fairness","DF Llorca, R Hamon, H Junklewitz, K Grosse",2024,arXiv preprint arXiv …,0
+Autonomous Height Adjustable Speed Reducer,"D Batra, A Sharma, V Wasson",2023,2023 3rd International …,1
+A survey of recent advances in edge-computing-powered artificial intelligence of things,"Z Chang, S Liu, X Xiong, Z Cai",2021,IEEE Internet of Things …,185
+Planning Guidance and Navigation for Autonomous Distributed Aerospace Platforms,F Causa,2020,Ph. D. Dissertation,5
+The potential for blockchain and artificial intelligence to enhance the transport sector,DC Karlson'Charlie'Hargroves,2021,Journal of Civil …,6
+The impact of a dedicated lane for connected and automated vehicles on the behaviour of drivers of manual vehicles,"SR Rad, H Farah, H Taale, B van Arem",2021,… research part F: traffic …,38
+Attribute Annotation and Bias Evaluation in Visual Datasets for Autonomous Driving,"DF Llorca, P Frau, I Parra, R Izquierdo",2023,arXiv preprint arXiv …,0
+MEMS: From a Bright Past Towards a Shining Future,"A Morcelli, S Ferri, A Hofmeister",2022,Silicon Sensors and Actuators: The …,1
+Knowledge Representation for Driving Context Cognition in a Smartphone-based ADAS,"MD Hina, A Soukane",2021,… Conference on Electrical …,0
+Deep Learning Based Autonomous Driving in Vehicular Networks,"Z Su, Y Hui, TH Luan, Q Liu, R Xing, Z Su, Y Hui",2021,The Next Generation …,2
+Trajectories and Platoon-forming Algorithm for Intersections with Heterogeneous Autonomous Traffic,"PC Joshi, MAA Boon, SC Borst",2023,arXiv preprint arXiv:2311.07435,0
+Computer Vision-Based Smart Helmet with Voice Assistant for Increasing,"Y Grover, SG Mishra, S Kumar, P Verma",2023,… and Applications of …,0
+Recent advancements in deep learning applications and methods for autonomous navigation: A comprehensive review,"AA Golroudbari, MH Sabour",2023,arXiv preprint arXiv:2302.11089,13
+"Survey on explainable AI: From approaches, limitations and Applications aspects","W Yang, Y Wei, H Wei, Y Chen, G Huang, X Li",2023,Human-Centric …,22
+Vehicle Detection and Traffic Control Using Sensor Technology,"V Shanbhag, J Jacob",2023,2023 2nd International Conference on …,0
+V2V and V2X Communications,"TS Ng, TS Ng",2021,Robotic Vehicles: Systems and Technology,1
+A Survey of Generative AI for Intelligent Transportation Systems,"H Yan, Y Li",2023,arXiv preprint arXiv:2312.08248,3
+Assessing the Development of Operator Trust in Automation,MJ Fowler,2021,NA,2
+Road object detection: a comparative study of deep learning-based algorithms,"B Mahaur, N Singh, KK Mishra",2022,Multimedia Tools and Applications,37
+CLAP: Cloud-and-learning-compatible autonomous driving platform,"Y Zhong, Z Cao, M Zhu, X Wang",2020,2020 IEEE Intelligent …,7
+Dual license plate recognition and visual features encoding for vehicle identification,"Á Ramajo-Ballester, JMA Moreno",2024,… and Autonomous …,1
+Neuromorphic Computing Architectures for EnergyEfficient Edge Devices in Autonomous Vehicles,"R Pradhan, A Gummadi, P Tanusha",2024,2024 Third …,0
+Blockchain technology for intelligent transportation systems: A systematic literature review,"R Jabbar, E Dhib, AB Said, M Krichen, N Fetais",2022,IEEE …,108
+Video compression prototype for autonomous vehicles,Y Wiseman,2024,Smart Cities,1
+An Overview of Security and Privacy Challenges in Connected Autonomous Vehicles,HAA Ghazaleh,2022,Tensorgate Journal of Sustainable …,0
+Low-Power Traffic Surveillance using Multiple RGB and Event Cameras: A Survey,"T Fleck, S Pavlitska, S Nitzsche",2023,2023 IEEE …,1
+Vehicle-to-Person Interaction: A Survey,"C Palacio, E Gamess",2020,Revista Venezolana de Computación,1

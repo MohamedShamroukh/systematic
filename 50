@@ -1,0 +1,51 @@
+title,authors,year,citations,url
+Self-organizing pedestrian movement,"D Helbing, P Molnár, IJ Farkas",N/A,1170,https://journals.sagepub.com/doi/abs/10.1068/b2697
+Agent-based modeling for predicting pedestrian trajectories around an autonomous vehicle,"M Prédhumeau, L Mancheva, J Dugdale",N/A,36,https://www.jair.org/index.php/jair/article/view/13425
+A literature review on the prediction of pedestrian behavior in urban scenarios,"D Ridel, E Rehder, M Lauer, C Stiller",N/A,194,https://ieeexplore.ieee.org/abstract/document/8569415/
+A data-driven model for pedestrian behavior classification and trajectory prediction,"V Papathanasopoulou, I Spyropoulou",N/A,20,https://ieeexplore.ieee.org/abstract/document/9762760/
+Experimental investigation on the alleged gender-differences in pedestrian dynamics: A study reveals no gender differences in pedestrian movement behavior,"R Subaih, M Maree, M Chraibi, S Awad",N/A,25,https://ieeexplore.ieee.org/abstract/document/8999607/
+Pedestrian trajectory prediction in pedestrian-vehicle mixed environments: A systematic review,"M Golchoubian, M Ghafurian",N/A,25,https://ieeexplore.ieee.org/abstract/document/10181234/
+Pedestrian models for autonomous driving part ii: high-level models of human behavior,"F Camara, N Bellotto, S Cosar, F Weber",N/A,128,https://ieeexplore.ieee.org/abstract/document/9151337/
+Pedestrian trajectory prediction in heterogeneous traffic using pose keypoints-based convolutional encoder-decoder network,"K Chen, X Song, X Ren",N/A,23,https://ieeexplore.ieee.org/abstract/document/9153745/
+Vehicle-pedestrian interaction: A distributed simulation study,"E Sadraei, R Romano, N Merat",N/A,16,https://www.researchgate.net/profile/Yee-Mun-Lee-2/publication/341204131_Vehicle-Pedestrian_Interaction_A_Distributed_Simulation_Study/links/5eb3bccc299bf152d6a1da8a/Vehicle-Pedestrian-Interaction-A-Distributed-Simulation-Study.pdf
+Pedestrian Simulation Challenges: Modeling Techniques and Emerging Positioning Technologies for ITS Applications,"V Papathanasopoulou, H Perakis",N/A,0,https://ieeexplore.ieee.org/abstract/document/10538170/
+Psi: A pedestrian behavior dataset for socially intelligent autonomous car,"T Chen, T Jing, R Tian, Y Chen, J Domeyer",N/A,19,https://arxiv.org/abs/2112.02604
+Modelling of driver and pedestrian behaviour–a historical review,"K Babojelić, L Novacko",N/A,14,https://hrcak.srce.hr/244538
+Effect of Pedestrian Movement on Traffic Los,"DK Patil, BV Khode",N/A,3,https://www.academia.edu/download/55487667/IJSTEV3I9225.pdf
+Multi-modal pedestrian trajectory prediction for edge agents based on spatial-temporal graph,"X Zou, B Sun, D Zhao, Z Zhu, J Zhao, Y He",N/A,22,https://ieeexplore.ieee.org/abstract/document/9082663/
+Review of pedestrian trajectory prediction methods: Comparing deep learning and knowledge-based approaches,"R Korbmacher, A Tordeux",N/A,75,https://ieeexplore.ieee.org/abstract/document/9899358/
+Holistic Spatio-Temporal Graph Attention for Trajectory Prediction in Vehicle–Pedestrian Interactions,"H Alghodhaifi, S Lakshmanan",N/A,4,https://www.mdpi.com/1424-8220/23/17/7361
+Learning in the curbside coordinate frame for a transferable pedestrian trajectory prediction model,"N Jaipuria, G Habibi, JP How",N/A,18,https://ieeexplore.ieee.org/abstract/document/8569812/
+Early prediction of a pedestrian's trajectory at intersections,"M Goldhammer, M Gerhard, S Zernetsch",N/A,47,https://ieeexplore.ieee.org/abstract/document/6728239/
+Injured probability assessment in frontal pedestrian-vehicle collision counting uncertainties in pedestrian movement,"Z Huang, Y He, Y Wen, X Song",N/A,15,https://www.sciencedirect.com/science/article/pii/S0925753517306045
+Spatiotemporal attention-based pedestrian trajectory prediction considering traffic-actor interaction,"X Zhou, W Zhao, A Wang, C Wang",N/A,7,https://ieeexplore.ieee.org/abstract/document/9893387/
+Pedestrian Moving Patterns during Potential Conflicts with 110 On-Road Driving Vehicles,"R Tian, S Chien, Y Chen",N/A,2,https://journals.sagepub.com/doi/abs/10.1177/1071181319631434
+Pedestrian behavior in shared spaces with autonomous vehicles: An integrated framework and review,"M Prédhumeau, A Spalanzani",N/A,35,https://ieeexplore.ieee.org/abstract/document/9552508/
+Modeling mobility with behavioral rules: The case of incident and emergency situations,"F Legendre, V Borrel, MD de Amorim",N/A,20,https://link.springer.com/chapter/10.1007/11930181_14
+Multi-Pedestrian Tracking and Map-Based Intention Estimation for Autonomous Driving Scenario.,"A Dehghani, L Patino-Studencki",N/A,0,https://pdfs.semanticscholar.org/a06c/9c8201ce82c21184cdc9053a65373e321a36.pdf
+A survey on motion prediction of pedestrians and vehicles for autonomous driving,"M Gulzar, Y Muhammad, N Muhammad",N/A,61,https://ieeexplore.ieee.org/abstract/document/9559998/
+Trajectory analysis and prediction for improved pedestrian safety: Integrated framework and evaluations,"A Møgelmose, MM Trivedi",N/A,101,https://ieeexplore.ieee.org/abstract/document/7225707/
+Spatio-semantic road space modeling for vehicle–pedestrian simulation to test automated driving systems,"B Schwab, C Beil, TH Kolbe",N/A,24,https://www.mdpi.com/2071-1050/12/9/3799
+Teletraffic analysis of a mobile crowdsensing system: The pedestrian-to-vehicle scenario,D Miguel-Santiago,N/A,1,https://journals.sagepub.com/doi/abs/10.1177/15501329221133291
+Multimodal multi-pedestrian path prediction for autonomous cars,"A Poibrenski, M Klusch, I Vozniak",N/A,14,https://dl.acm.org/doi/abs/10.1145/3447332.3447333
+Non-probability sampling network based on anomaly pedestrian trajectory discrimination for pedestrian trajectory prediction,"Q Liu, H Sang, J Wang, W Chen, Y Liu",N/A,2,https://www.sciencedirect.com/science/article/pii/S026288562400057X
+Towards modelling pedestrian-vehicle interactions: Empirical study on urban unsignalized intersection,"A Gorrini, G Vizzari, S Bandini",N/A,47,https://arxiv.org/abs/1610.07892
+Tracking Pedestrians Under Occlusion in Parking Space.,"Z Zhou, S Yamada, Y Watanabe",N/A,1,https://cdn.techscience.cn/ueditor/files/csse/TSP_CSSE-44-3/TSP_CSSE_29005/TSP_CSSE_29005.pdf
+A Hierarchical Forecasting Model of Pedestrian Crossing Behaviour for Autonomous Vehicle,"G Yang, EJL Pulgarin, G Herrmann",N/A,0,https://ieeexplore.ieee.org/abstract/document/10387325/
+A review of deep learning-based methods for pedestrian trajectory prediction,"BI Sighencea, RI Stanciu, CD Căleanu",N/A,67,https://www.mdpi.com/1424-8220/21/22/7543
+M2p3: multimodal multi-pedestrian path prediction by self-driving cars with egocentric vision,"A Poibrenski, M Klusch, I Vozniak",N/A,32,https://dl.acm.org/doi/abs/10.1145/3341105.3373877
+Pedestrians' road crossing behaviour in front of automated vehicles: Results from a pedestrian simulation experiment using agent-based modelling,"SR Rad, GH de Almeida Correia",N/A,75,https://www.sciencedirect.com/science/article/pii/S1369847819301731
+Pedestrian intention detection as a resource competition challenge,"P Gawronski, D Burschka",N/A,2,https://ieeexplore.ieee.org/abstract/document/8917064/
+"Behavioral-based pedestrian modeling approach: formulation, sensitivity analysis, and calibration","S Hani Hamdar, A Talebpour, K D'sa",N/A,4,https://journals.sagepub.com/doi/abs/10.1177/03611981211059767
+Traffic and driving simulator based on architecture of interactive motion,"A Paz, N Veeramisti, R Khaddar",N/A,13,https://onlinelibrary.wiley.com/doi/abs/10.1155/2015/340576
+Simulation of pedestrian interaction with autonomous vehicles via social force model,"MM Rashid, MR Seyedi, S Jung",N/A,6,https://www.sciencedirect.com/science/article/pii/S1569190X24000157
+Neural differential constraint-based pedestrian trajectory prediction model in ego-centric perspective,"J Wang, H Sang, Q Liu, W Chen, Z Zhao",N/A,0,https://www.sciencedirect.com/science/article/pii/S0952197624001519
+How can i see my future? fvtraj: Using first-person view for pedestrian trajectory prediction,"H Bi, R Zhang, T Mao, Z Deng, Z Wang",N/A,23,https://link.springer.com/chapter/10.1007/978-3-030-58571-6_34
+Child-pedestrian traffic safety at crosswalks—literature review,"A Deluka-Tibljaš, S Šurdonja, I Ištoka Otković",N/A,18,https://www.mdpi.com/2071-1050/14/3/1142
+Improved gaussian mixture probabilistic model for pedestrian trajectory prediction of autonomous vehicle,"H Li, X Wang, X Su, Y Wang",N/A,1,https://www.ingentaconnect.com/content/ben/meng/2024/00000017/00000001/art00007
+Pedestrian-vehicle interaction in shared space: Insights for autonomous vehicles,"Y Wang, L Hespanhol, S Worrall",N/A,11,https://dl.acm.org/doi/abs/10.1145/3543174.3546838
+A context-aware pedestrian trajectory prediction framework for automated vehicles,"A Kalatian, B Farooq",N/A,50,https://www.sciencedirect.com/science/article/pii/S0968090X21004423
+A protocol for pedestrian crossing and increased vehicular flow in smart cities,"S El Hamdani, N Benamar, M Younis",N/A,29,https://www.tandfonline.com/doi/abs/10.1080/15472450.2019.1683451
+Modeling the interaction between vehicle yielding and pedestrian crossing behavior at unsignalized midblock crosswalks,"J Zhao, JO Malenje, J Wu, R Ma",N/A,61,https://www.sciencedirect.com/science/article/pii/S1369847820304563
+Evaluation of human behaviour at pedestrian crossings,E Mako,N/A,57,https://ieeexplore.ieee.org/abstract/document/7390634/
+Simulation-based model for surrogate safety measures analysis in automated vehicle-pedestrian conflict on an urban environment,"H Alghodhaifi, S Lakshmanan",N/A,18,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11415/1141504/Simulation-based-model-for-surrogate-safety-measures-analysis-in-automated/10.1117/12.2558830.short
